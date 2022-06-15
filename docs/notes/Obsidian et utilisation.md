@@ -22,7 +22,7 @@ Nom du perso/
 ```
 
 Note : les fichiers marqué d'un astérisque sont invisibles dans Obsidian s'ils ont le même nom que le dossier. Il est possible de personnaliser le comportement de Folder Note. Par exemple, vous pouvez les mettre à l'extérieur ou utiliser le nom "index" par défaut. 
-Typiquement, pour la fiche de [[../Compendium/Personnages/Hayleen May/Hayleen May.md|(i) Hayleen May]], le truc ressemble à ça :
+Typiquement, pour la fiche de [[../Compendium/Hayleen May/Hayleen May.md|(i) Hayleen May]], le truc ressemble à ça :
 ![[../assets/img/Pasted image 20220126170658.png]]
 Mais en réalité, le dossier est composé comme ça :
 ![[../assets/img/Pasted image 20220126171043.png|800]]
@@ -52,6 +52,6 @@ Pareil, plutôt que de péter entièrement la mise en forme quand je rajoute une
 
 C'est plus léger et pratique, et ça me convient super bien. 
 
-Typiquement le "carnet" de [[../Compendium/Personnages/Mnémosyne/Mnémosyne.md|(i) Mnémosyne]] pour [[../Compendium/Personnages/Mnémosyne/(Fiche) Mnémosyne (Lagendia).md|Lagendia]] ressemble à ça :
+Typiquement le "carnet" de [[../Compendium/Mnémosyne/Mnémosyne.md|(i) Mnémosyne]] pour [[../Compendium/Mnémosyne/(Fiche) Mnémosyne (Lagendia).md|Lagendia]] ressemble à ça :
 ![[../assets/img/Pasted image 20220126174208.png]]
 (Petit bonus : Relation est un dossier, donc si je veux prendre des notes sur un perso, ça me créera un fichier automatiquement en cliquant sur le lien, et j'aurai **rien** à bouger.)
