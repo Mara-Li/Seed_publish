@@ -11,7 +11,8 @@ tags: RP/Le-laboratoire/Fiche/PJ
 image: ../assets/img/IMG_1314.jpg
 cover: https://www.mara-li.fr/assets/img/IMG_1314.jpg
 ---
-%% Parent:: [[Éden]]%%
+
+%% Parent:: [[Éden]] %%
 %% [Google docs](https://docs.google.com/document/d/1Do90LNHl8FXpdIShSMy4FPq8CQWuqflE0mES_BB8M9w/edit?usp=sharing) %%
  <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 I n t r o d u c t i o n<br>
