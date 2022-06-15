@@ -1,8 +1,7 @@
 ---
-share: true
-category: Scriptorium
+share: True
+category: hidden
 ---
-
 # Résumé de l'univers : 
 - Utopie 
 - Magie illimité
@@ -76,7 +75,6 @@ Note : La pop est fixé à 1milliards d'hab en tout mais beaucoup sont dans le f
 # Environnement
 Il existe une ville agencée autour d'une immense tour contenant l'ensemble des registres du flux et des recherches menées par l'humanité. Le reste de la planète est sauvage, avec beaucoup de chose à découvrir. Il est possible notamment de découvrir des ruines à divers endroits de la planète, si bien qu'il existe aussi des Archéologues. Personne ne comprend pourquoi ses ruines existent, puisqu'il n'existe aucune archive en parlant. Les théories vont de bon train... 
 
-%% Nombreuses ruines non découverte, sans savoir d'où et quand elle vienne-date%%
 
 ---
 
@@ -92,5 +90,3 @@ La magie créatrice permet de créer des êtres vivants, machines, objets. Avant
 <u>Référence</u> :
 - FFXIV - Endwalker et Shadowbringer
 - Shinsekai Yori
-
- 
