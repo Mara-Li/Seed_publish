@@ -1,7 +1,7 @@
 ---
 folder: Compendium
 date: 12-06-2021
-category: Compendium/Personnages/Ashling May.md
+category: Compendium/Personnages/../Ashling May.md
 share: true
 title: Pouvoirs
 type: Pouvoir

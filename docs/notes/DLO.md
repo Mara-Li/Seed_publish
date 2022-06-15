@@ -2,7 +2,7 @@
 date: 16-05-2022
 share: true
 obsidianUIMode: source
-title: Dusk Legends Online — ../Compendium/Personnages/Ashling May/Ashling May.md
+title: Dusk Legends Online — ../Compendium/Ashling May/Ashling May.md
 description: "Fiche d'Ashling May, alias Sola-UI, pour le RP Dusk Legends Online, un RP sur MMORPGVR."
 type: Fiche
 univers: DLO
