@@ -1,22 +1,20 @@
 ---
-date: "07-01-2022"
-category: Roleplay/Personnages
-share: True
+date: 07-01-2022
+category: Compendium/Personnages
+share: true
 obsidianUIMode: source
-description: "Stagiaire-apprentie au sein de la Fondation SCP, malgré ses pouvoirs particuliers."
+description: Stagiaire-apprentie au sein de la Fondation SCP, malgré ses pouvoirs particuliers.
 type: Fiche
 state: 🟢
 univers: Sadhée
-title: Eilwellyn Beausang
-tags: 
-- RP
-- Sadhée
-- Fiche
-- PJ
+tag: RP/Sadhée/Fiche/PJ
+title: ../../notes/Eilwellyn Beausang.md
 ---
 
+%% [[Eilwellyn Beausang]] %%
+
 # **─────༺ Présentation ༻─────**
-![[Pasted image 20220108012633.png|+side]]
+![[../../assets/img/Pasted image 20220108012633.png|+side]]
 **Nom** : Eilwellyn
 **Prénom** : Beausang
 **Âge** : 26 ans
@@ -34,7 +32,7 @@ Eilwellyn est capable de déployer un double d'elle-même, sous forme de spectre
 - Plus le spectre est loin d'Eilwellyn, moins ses pouvoirs sont puissants : plus le Spectre s'éloigne, moins elle est capable de soulever des objets lourds, jusqu'à ne plus pouvoir toucher.
 
 # **──────༺ Physique ༻──────**
-![[Eilwellyn — Fantôme.png|+rside]]
+![[../../assets/img/Eilwellyn — Fantôme.png|+rside]]
 
 *Taille* : 1m65
 *Poids* : Légère, mince. 
