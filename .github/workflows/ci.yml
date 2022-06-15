@@ -21,6 +21,7 @@ jobs:
         with:
           separator: ";"
           quotepath: "false"
+          since_last_remote_commit: true
       - name: Install OBS2Mk
         run: |
           pip install obs2mk --upgrade
