@@ -26,6 +26,9 @@ jobs:
       - name: Install OBS2Mk
         run: |
           pip install obs2mk --upgrade
+      - name: generate markdown
+        run: |
+          echo "File processed:  " >> $GITHUB_STEP_SUMMARY
       - name: obs2mk source files
         run: |
           IFS=$';'
@@ -33,6 +36,7 @@ jobs:
           for file in $changed; do
             if [[ "$file" == *md ]] 
               then
+                echo "- $file " >> $GITHUB_STEP_SUMMARY
                 obs2mk --minimal file "$file"
               fi
             done
@@ -51,3 +55,6 @@ jobs:
           fileList=$(git status --porcelain | tr -d '\n' | tr -d 'M' |tr -d '??')
           git commit -m "🏓 Publishing from ObsidianMD" -m "${fileList}"
           git push
+      - name: Ending summary
+        run: |
+          echo "🎉 Published to $PAGE_LINK" >> $GITHUB_STEP_SUMMARY
