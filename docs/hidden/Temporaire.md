@@ -1,8 +1,8 @@
 ---
-share: true
+share: True
 category: hidden
 ---
-**__PSEUDO DU DEMANDEUR :__**  @Mara#3000
+**__PSEUDO DU DEMANDEUR :__**  @Mara**3000**{: #3000 .hash}
 
 **__TYPE DE RP (Genre, niveaux, durée, tags) :__** 
 	▫️*Genre* : Univers emprunté 
