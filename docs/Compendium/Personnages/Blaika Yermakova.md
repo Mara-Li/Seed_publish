@@ -1,12 +1,12 @@
 ---
-date: 24-12-2019
+date: "24-12-2019"
 type: OC
-share: true
+share: True
 description: Data sur Blaika
-cover: https://i.pinimg.com/originals/86/1d/47/861d4738b357c85e787e334bdc840002.jpg
+cover: "https://i.pinimg.com/originals/86/1d/47/861d4738b357c85e787e334bdc840002.jpg"
 image: Blaika.jpg
-category: Compendium/Personnages
-tags:
+category: Roleplay/Personnages
+tags: 
 - OC
 - Magie
 - Années30
@@ -19,7 +19,8 @@ Table WITHOUT ID state as Status, (link(file.path, title)) as LINK
 FROM [[#]]
 WHERE type="Fiche"
 ```
-![[../../assets/img/Blaïka.jpg|+side]]
+
+![[Blaïka.jpg|+side]]
 **Nom** : Yermakova
 **Prénom** : Blaïka
 
@@ -57,7 +58,7 @@ Abigael a pris à parti Vladimir en utilisant une des plus puissante techniques 
 Quatre ans plus tard, sa haine du Grimnoir et surtout d’Abigael ne disparait pas, et elle continue de chercher vengeance, n’arrivant pas vraiment à faire son deuil. 
 
 # Pouvoirs : FRIGO
-*Cryokinésie* #left 
+***Cryokinésie***{: #left}  
 <u style="font-style:italic;">Capacité spéciale</u>:
 - **Ukrepleniye** : Blaïka utilise le contrôle de son sang pour renforcer son corps, notamment ses muscles. Elle peut accéder à la force et à la résistance d’une Brute quand elle active cette capacité. 
 	- Type : Soutien (personnel)
@@ -72,7 +73,7 @@ Quatre ans plus tard, sa haine du Grimnoir et surtout d’Abigael ne disparait p
 -   Vitalité
 
 # Descriptions
-![[../../assets/img/Blaika Yermakova-24-04-2022.png|+side]]
+![[Blaika Yermakova-24-04-2022.png|+side]]
 ## Physique
 Blaïka est une grande femme rousse aux cheveux longs, bien qu’elle les attache souvent en queue de cheval ou en natte. Elle a une cicatrice qui barre son oeil droit et sa joue, et ses mains sont abimés par les entraînement et sa vie dans les steppes russes. Elle est très musclée et est du genre à faire peur.  Elle a des yeux bleus très clairs et de légères tâches de rousseurs sur la majorité de son corps, qui est lui aussi recouvert de cicatrices. Elle a un petit nez et un visage plutôt harmonieux. Mais ces cicatrices la rendent plus imposante qu’elle ne l’est réellement. En règle générale, c’est une jolie femme qu’il ne faut pas vraiment embêter.
 
@@ -87,4 +88,3 @@ En dehors de l’armée, elle peut se montrer très sympathique, proche de ses s
 -   Elle tient bien l’alcool.
 -   Pour une russe, elle n’aime étrangement pas la vodka et préfère la bière. 
 -   [Image source](http://fav.me/da32hn6)
-

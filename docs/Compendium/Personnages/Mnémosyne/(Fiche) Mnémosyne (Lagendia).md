@@ -1,22 +1,22 @@
 ---
-tag: Lagendia
-title: (Lagendia) Mnémosyne.md
-share: true
-date: 15-11-2021
-description: Fiche de Mnémosyne, adaptée à Légendia. Sanktae surveillante.
-category: Compendium/Personnages/Mnémosyne
+title: (Lagendia) Mnémosyne
+share: True
+date: "15-11-2021"
+description: "Fiche de Mnémosyne, adaptée à Légendia. Sanktae surveillante."
+category: Roleplay/Personnages/Mnémosyne
 univers: Lagendia
 type: Fiche
 image: Mnémosyne
 state: 🟢
+tags: Lagendia
 ---
-%% [[Mnémosyne|Original]] ; [[../../../notes/Lagendia (N).md|Carnet]] %%
 
 ```dataview
 Table WITHOUT ID state as Status, (link(file.path, title)) as LINK 
 FROM [[#]]
 WHERE type="Fiche" and contains(file.name, "Mnémosyne")
 ```
+
 
 
  <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
@@ -34,7 +34,6 @@ I n t r o d u c t i o n<br>
 D e s c r i p t i o n<br>
 ╚═══━━━─── • ───━━━═══╝</h1>
 <h2 style="text-align:center">──────༺ Mental ༻──────</h2><br>
-%% Amusante, gentille, décalée, tête en l'air, maladroite, trompeuse %%
 
 $\qquad$Mnémosyne est une personne en apparence désinvolte et versatile. Elle apprécie s'amuser, et n'est pas du genre à déprimer sur les difficultés. Ce n'est pas le genre de personne à facilement détester les gens, et elle est plus à se méfier grand maximum. Il est donc extrêmement rare d'être détesté par Mnémosyne.
 
@@ -71,7 +70,7 @@ Son seul moyen de mentir est de mentir par omission, ce qu'elle n'hésite pas à
 Pour une raison obscure, Mnémosyne est terrifiée par les insectes. En dehors de ça, rien ne semble réellement l'effrayer.
 <h2 style="text-align:center">──────༺ Physique ༻──────</h2>
 
-![[../../../assets/img/Mnémosyne Fullbody.jpeg|+side]]
+![[Mnémosyne Fullbody.jpeg|+side]]
 
 *Taille* : 1,80 m
 *Poids* : 60 kg
@@ -87,12 +86,12 @@ Elle a une démarche plutôt droite, malgré le fait qu'elle s'aide tout le temp
 
 Son visage est assez ovale, avec un petit nez et des yeux très légèrement tombants, entièrement blanc — puisqu'il se trouve qu'elle est aveugle. Elle a des lèvres fines et une bouche bien dessinée. Enfin, elle possède de petites tâches de rousseurs sur l'ensemble du visage, mais surtout sur son nez et joues. 
 Notons : elle ne porte pas de lunettes de soleil, puisque cela la gêne fortement pour utiliser ses pouvoirs. 
-![[../../../assets/img/Nemo by Mogeckko.jpeg|+rside]]
+![[Nemo by Mogeckko.jpeg|+rside]]
 
 **Style vestimentaire** : Elle a un style plutôt décontracté, presque sportif. Elle apprécie les bottines, les longs manteaux en cuir souples, les pulls, mais aussi les pantalons cargo ou les jupes souples. Cela dit, puisqu'elle est aveugle, elle ne fait pas vraiment attention à son apparence. 
 Généralement, les couleurs qu'elle portera seront plutôt neutre, type marron, beige, voire bordeaux. 
 
-→ [[Illustration (Némo).md|Illustration]] #left
+**→ [[Illustration (Némo)|Illustration]]**{: #left}  
 
 <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 H i s t o i r e<br>

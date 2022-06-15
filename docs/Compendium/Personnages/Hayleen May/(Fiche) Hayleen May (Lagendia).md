@@ -1,23 +1,22 @@
 ---
-title: (Lagendia) Hayleen May.md
-alias: Fiche Hayleen May, Hayleen Fiche, Lagendia Fiche Hayleen
-date: 23-01-2022
-category: Compendium/Personnages/Hayleen May
-share: true
+title: (Lagendia) Hayleen May
+alias: "Fiche Hayleen May, Hayleen Fiche, Lagendia Fiche Hayleen"
+date: "23-01-2022"
+category: Roleplay/Personnages/Hayleen May
+share: True
 description: "Fiche d'Hayleen May, pour Lagendia. Une élève Dragon Pourpre, contrôlant le bois et à fort caractère !"
 type: Fiche
 state: 🟢
 univers: Lagendia
-tag: RP/Lagendia/Fiche/PJ
-image: ../../../assets/img/COMMISSION_MARA_PP.png
-tag: Lagendia
+image: COMMISSION_MARA_PP.png
+tags: Lagendia
 ---
-%% [[Hayleen May]] %%
 ```dataview
 LIST
 FROM [[Hayleen May]] and "20. Compendium"
 WHERE type != "fiche" 
 ```
+
 
  <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 I n t r o d u c t i o n<br>
@@ -63,7 +62,7 @@ Hayleen est aussi une personne très loyale, amicale, et gentille. Elle n'hésit
 
 Elle a aussi la très mauvaise habitude de tomber amoureuse un peu trop facilement, et se dit parfois qu'elle finira à jamais célibataire. Sentimentalement, Hayleen n'est pas trop mature. 
 
-N'ayant pas de souvenir avant ses cinq ans et son adoption par [[../../../Fiche RP/../../../Fiche RP/../../../Fiche RP/../../../Fiche RP/Salem.md.md.md.md]], elle ne cherche pas en particulier à trouver les raisons de la disparition de ses parents, mais plus à comprendre ce que sont les Grimalkin et pourquoi elles existent. 
+N'ayant pas de souvenir avant ses cinq ans et son adoption par [[Salem]], elle ne cherche pas en particulier à trouver les raisons de la disparition de ses parents, mais plus à comprendre ce que sont les Grimalkin et pourquoi elles existent. 
 Elle entretien avec son père adoptif une excellente relation, bien qu'elle juge qu'il la limite trop. 
 
 ##### __*Aime*__ :
@@ -104,7 +103,7 @@ Devenir plus forte, simplement.
 - Sa magie est dorée
 *Cicatrice* : /
 
-![[../../../assets/img/COMMISSION_FB_MARA.png|+side]]
+![[COMMISSION_FB_MARA.png|+side]]
 
 Hayleen est une jeune femme assez bien proportionnée, dans la fleur de l’âge, et qui le sait.
 
@@ -118,7 +117,7 @@ Sinon, pour ses vêtements, elle est du genre à préférer les trucs proches du
 
 **Style vestimentaire** : Rock et naturel
 
-⇒ [[Illustration (Hayleen).md|Illustration]] #left
+**⇒ [[Illustration (Hayleen)|Illustration]]**{: #left}  
 
 <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 H i s t o i r e<br>
@@ -132,9 +131,9 @@ La mage aux cheveux rouges se matérialisa à ses côtés.
 — Pas de survivant ? Dit-il.
 Elle secoua la tête:
 — Juste l'enfant.
-— Donc, tu es en train de me dire qu'une cellule *entière* de l'[[../../../notes/Écho.md]] a été détruite, et qu'il reste juste une enfant ? Tu vas me sortir quoi, que l'enfant a survécu par le miracle du saint esprit par le pouvoir de l'amour ? 
+— Donc, tu es en train de me dire qu'une cellule *entière* de l'[[Écho]] a été détruite, et qu'il reste juste une enfant ? Tu vas me sortir quoi, que l'enfant a survécu par le miracle du saint esprit par le pouvoir de l'amour ? 
 
-Salem n'aimait ni les coïncidences, ni les comptes de fées. [[../../../Fiche RP/Alazée.md]] haussa les épaules.
+Salem n'aimait ni les coïncidences, ni les comptes de fées. [[Alazée]] haussa les épaules.
 
 — Sal, si ça visait une cellule en particulier, tu crois qu'il aurait pu ne pas tuer un enfant ? Je veux dire, si elle n'avait rien à voir avec eux, c'est pas illogique qu'il-
 
@@ -241,4 +240,4 @@ Hayleen, pour le moment, maîtrise le Façonnage uniquement sur les objets de hu
 *Durée :* 3 tours
 *Description* : Hayleen améliore l'attribut d'un objet, mais affaiblie une autre. 
  
-[^1]: "Grimalkin" est un terme initialement associé à des chat-fées dans les légendes irlandaises, devenus plus généralement associé à la sorcellerie. 
+[^1]: "Grimalkin" est un terme initialement associé à des chat-fées dans les légendes irlandaises, devenus plus généralement associé à la sorcellerie.

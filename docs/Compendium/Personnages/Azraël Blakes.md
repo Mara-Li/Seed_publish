@@ -1,22 +1,23 @@
 ---
-folder: Compendium
-date: 29-06-2019
-share: true
-category: Compendium/Personnages
+folder: Roleplay
+date: "29-06-2019"
+share: True
+category: Roleplay/Personnages
 type: OC
 name: Azraël Blakes
 univers: Bibliothèque Infinie
 doc: MD
-tag:
+cover: "https://i.imgur.com/9mRMewR.png"
+tags: 
 - OC
 - RP/Bibliothèque-Infinie
-cover: https://i.imgur.com/9mRMewR.png
 ---
 ```dataview
 Table WITHOUT ID state as Status, (link(file.path, title)) as LINK 
 FROM [[#]]
 WHERE type="Fiche"
 ```
+
 ---
 
 **Nom** : Blakes
@@ -90,7 +91,7 @@ Elle essaie aussi d'aider les gens à faire leurs deuils, mais elle considère q
 Elle a du mal à s'attacher aux autres, puisqu'elle sait qu'ils vont mourir et disparaître un jour, mais pas elle. Du coup, elle paraîtra avoir un tempérament mélancolique et solitaire, lorsqu'on apprend à la connaître.
 
 **Apparence** :
-![[../../assets/img/752036651a8433ba637c2b66d4502b38.png|+side]]
+![[752036651a8433ba637c2b66d4502b38.png|+side]]
 Azraël possède, dans sa forme "normale", des cheveux noirs coupés courts dans un carré plongeant, entourant un visage doux. Elle possède un petit nez retroussée, et de grands yeux dorés, en amandes. Généralement, elle est vêtue d'une longue cape (la veste, pas une cape de super-héros !), avec un petit béret, lequel est entouré d'une sorte d'auréole composée de losange noirs. Les deux sont noirs, d'ailleurs. En dessous, des vêtements pratiques, tel qu'un pantalon ou une jupe et des collants…
 
 Sa forme divine voit l'agrandissement de son auréole, l'apparition d'aile noire translucide, et d'autre losange l'encadrant.

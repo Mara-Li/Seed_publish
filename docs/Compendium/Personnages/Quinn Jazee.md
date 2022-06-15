@@ -1,15 +1,15 @@
 ---
-folder: Compendium
-date: 03-05-2021
-category: Compendium/Personnages
-share: true
+folder: Roleplay
+date: "03-05-2021"
+category: Roleplay/Personnages
+share: True
 type: OC
 doc: MD
 univers: ❌
-update: false
-image: ../../assets/img/Quinn Jayzee.png
+update: False
+image: Quinn Jayzee.png
 cover: "https://www.mara-li.fr/assets/img/Quinn%20Jayzee.png"
-tag:
+tags: 
 - OC
 - ❌
 - Futuriste
@@ -18,10 +18,11 @@ tag:
 - Humaine
 ---
 ```dataview
-LIST
+Table WITHOUT ID state as Status, (link(file.path, title)) as LINK 
 FROM [[#]]
 WHERE type="Fiche"
 ```
+
 ---
 ![[Quinn Jayzee.png|+pins]]
 
