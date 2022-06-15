@@ -13,6 +13,7 @@ on:
 jobs:
   mkdocs:
     runs-on: ubuntu-latest
+    if: ${{ !startsWith(github.event.head_commit.message, '[PUBLISHER]') }}
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v3
