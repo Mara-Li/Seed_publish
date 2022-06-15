@@ -1,7 +1,8 @@
 ---
-share: True
-title: "Pourquoi Obsidian ?"
+share: true
+title: Pourquoi Obsidian ?
 ---
+
 # Introduction
 
 Pourquoi ai-je choisi Obsidian par rapport à d'autres app de prise de note ? À la base, parce que c'est une application en **markdown**, **gratuite** et **disponible sur téléphone**. Pourquoi j'ai continué à l'utiliser, par rapport à Notion ou ClickUp ? 
@@ -35,7 +36,6 @@ Des tableaux tel que :
 | Je suis du contenu | Et moi aussi              |
 ```
 
-
 (Je sais, c'est moche)
 
 Ah oui, vous pouvez aussi insérer directement du HTML pour vous amuser un peu aussi. 
@@ -58,14 +58,14 @@ Notons que le LP est, à l'heure où j'écris ses lignes, en bêta sur mobile et
 ### Les options
 Obsidian permet de carrément personnaliser l'utilisation, et on peut complètement désactiver/activer des core features. Vous pouvez donc avoir un Obsidian bourré d'option/outils, ou un truc giga simple. En plus, on peut personnalisée notre vue comme on veut : je peux mettre mon plan à droite, avoir ma liste de dossiers et fichier à gauche...
 
-![[Pasted image 20220121203402.png]]
+![[../assets/img/Pasted image 20220121203402.png]]
 (*Feat mes fautes*)
 
 ### La vue graphique et les tags
 Il faut savoir que je n'utilise quasiment pas la vue graphique et les tags. Je préfère une organisation hiérarchique par dossier, et il y a déjà énormément d'article à ce sujet. En gros, pour résumé vite-fait : vous pouvez avoir un affichage de vos notes avec des liens entre elles.
 
 Plutôt pratique pour suivre les relations d'un sujet, d'un personnage... 
-![[Pasted image 20220121204230.png]]
+![[../assets/img/Pasted image 20220121204230.png]]
 Par exemple, ici, on voit bien les trucs reliés à mes cours et ceux qui sont reliés au RP. 
 
 Y'a encore et encore d'autres trucs, genre, afficher les liens entrants-sortants d'une note, les templates... 
@@ -84,7 +84,7 @@ Deux extensions m'ont fait rester sur Obsidian : [Language Tool](https://github.
 En outre, il existe une multitude de thèmes, et vous pouvez créer vos propres "snippet" CSS pour modifier Obsidian. Ainsi, vous pouvez créer des syntaxes MD spéciale pour avoir genre de la couleur, souligner, changer la couleur du surlignage… Ou encore personnalisée l'UI, comme moi avec mes dossiers colorés.
 > Par contre, y'a pas *encore* de store snippet et l'organisation du dossier peut vite devenir chaotique. Une mise à jour est prévu, mais les devs se concentrent d'abord sur le LP. 
 
-![[Pasted image 20220121205357.png|+side-sm]] 
+![[../assets/img/Pasted image 20220121205357.png|+side-sm]] 
 Notons que les icônes sont rajoutées avec, soit, un snippet CSS (oui, c'est possible) soit un super plugin nommé Icon Folder qui n'a vraiment pas assez d'amour.
 
 Moi qui aime avoir une vue d'ensemble rapide, les couleurs m'y aident vraiment !
@@ -112,3 +112,4 @@ Source (En anglais) :
 - [TfT Performance : Obsidian](https://www.goedel.io/p/tft-performance-obsidian)
 - [Obsidian Privacy](https://cdn.discordapp.com/attachments/908731169305153606/908774932077498408/unknown.png)
 - [Silver's (Erica Xu) Interview ](https://nesslabs.com/obsidian-featured-tool)
+

@@ -1,6 +1,7 @@
 ---
-share: True
+share: true
 ---
+
 Souvent, on peut se demander "mais comment, bon dieu on peut continuer à utiliser word pour nos mémoires ?" car Word-google doc a de nombreux (très nombreux) problème. 
 
 Ici, mon problème principal était lié à ma documentation. En effet, dès que mes profs éditaient le fichier, ma biblio sautait et je n'avais que mes numéros et mes yeux pour pleurer. Pas très ouf pour s'y retrouver n'est-ce pas ? Surtout quand on peut écrire facilement en Markdown un fichier où citer un tableau, graphique, ou un document équivaut à citer le numéro du tableau, image, ou une clé unique de citation créée par BibLatex.
@@ -11,7 +12,7 @@ Ici, je détaillerai les étapes pour écrire un rapport pour la Faculté de Lyo
 
 - [Pandoc](https://pandoc.org/) et [Python](https://pypi.org/)
 - [Zotero](https://www.zotero.org/) et son extension [Better BibTex](https://retorque.re/zotero-better-bibtex/)
-- [Pandoc xnos](https://github.com/tomduck/pandoc-xnos)
+-  [Pandoc xnos](https://github.com/tomduck/pandoc-xnos)
 
 Une fois cela fait, pour faciliter votre boulot, vous pouvez créer un dossier "Export" pour faciliter la configuration. Dans ce fichier export, vous allez mettre : 
 - [Le filtre "lua" pour les pagebreak](https://raw.githubusercontent.com/pandoc/lua-filters/master/pagebreak/pagebreak.lua) (clic droit -> enregistrer sous)
@@ -28,13 +29,13 @@ Pour plus de faciliter, placer ses deux fichier dans le dossier `export`.
 
 ## Les fichiers yml
 
-Note : Le chemin complet vers exort sera nommé `Users\export` mais vous devez modifier ce chemin par le véritable chemin ABSOLUE vers les fichiers. Sous windows, pour faciliter les choses : clic droit sur un fichier => Copier en tant que chemin d'accès.
+Note : Le chemin complet vers export sera nommé `Users\export` mais vous devez modifier ce chemin par le véritable chemin ABSOLUE vers les fichiers. Sous windows, pour faciliter les choses : clic droit sur un fichier => Copier en tant que chemin d'accès.
 
 Vous êtes obligé de doubler tous les `\` sous Windows. 
 
-!!! WARNING
-	Vos images ne sont pas trouvées magiquement par pandoc, n'oubliez pas de créer un dossier dans lequel elles seront rangés & nommée. 
-	Ici, le dossier sera nommée `Users\export\attachment`
+>[!WARNING]
+>Vos images ne sont pas trouvées magiquement par pandoc, n'oubliez pas de créer un dossier dans lequel elles seront rangés & nommée. 
+>Ici, le dossier sera nommée `Users\export\attachment`
 
 Dans `default.yml` : 
 ```yaml
@@ -59,7 +60,6 @@ input-files: # Contiendra tous les fichiers qui seront "compilé" pour créer vo
 to: docx
 output-file: 'User\\export\\Memoire_Master_2.docx'
 ```
-
 
 Ensuite, dans le fichier `page.yml` : (donné à titre d'exemple)
 Les images sont sous forme : `![description](nom de l'image)`. Pandoc cherchera automatiquement le même nom dans `resource-path` définie dans `default.yml`.
@@ -94,7 +94,6 @@ tablenos-plus-name: tableau
 fignos-plus-name: figure
 ```
 
-
 # L'écriture
 Maintenant, vous pouvez utiliser n'importe quel logiciel pour ouvrir des fichiers markdown pour rédiger votre mémoire. 
 Personnellement, j'utilise [Obsidian](https://obsidian.md/)avec [Pandoc Reference List](https://github.com/mgmeyers/obsidian-pandoc-reference-list)et [Zotero Desktop Connector](https://github.com/mgmeyers/obsidian-zotero-desktop-connector)
@@ -115,8 +114,8 @@ Pour :
 	- `![Caption description](image.png){#fig:img-1}`
 	- Et pour citer : `+@fig:img-1`
 Pandoc xnos utilise à chaque fois la même idée de citation, avec toujours un `{#type:id}` où chaque `id` est unique, et `type` peut être `fig`, `tbl`... 
-!!! note
-	Juste pour info, vous aurez un warning de la part de citeproc, qui n'aura aucun impact sur l'export
+>[!note]
+>Juste pour info, vous aurez un warning de la part de citeproc, qui n'aura aucun impact sur l'export
 
 # La commande pandoc
 Maintenant que tout semble configuré, il vous suffit plus qu'à lancer la commande pour compiler le rapport. 
@@ -124,5 +123,4 @@ Maintenant que tout semble configuré, il vous suffit plus qu'à lancer la comma
 ```sh
 pandoc --defaults "User\Export\default.yml"
 ```
-
 Oui, c'est tout, puisque toute la configuration se trouve dans le fichier `default.yml`

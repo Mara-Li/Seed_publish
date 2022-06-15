@@ -1,20 +1,21 @@
 ---
-folder: Roleplay
-date: "12-06-2021"
-category: Roleplay/Personnages/Ashling May
-share: True
+folder: Compendium
+date: 12-06-2021
+category: Compendium/Personnages/Ashling May.md
+share: true
 title: Pouvoirs
 type: Pouvoir
 state: ❌
-tags: 
+tag:
 - Ashling-May/Référence
 - RP/Fiche
 - Pouvoir
 - Futuriste
 ---
+
 Ref: [[Ashling May]]
 
-# [[Invocation d'armes|Technomage]]
+# [[../../../notes/Invocation d'armes.md|Technomage]]
 
 En prenant sa forme d’Ekraminarok, elle peut faire apparaître un clavier sur lequel elle peut taper ses « sorts ». Elle peut faire apparaître n’importe quelles armes qu’elle maîtrisera parfaitement. Elle peut aussi faire des sorts pour booster elle-même ou d’autres personnes. Elle peut analyser ses adversaires, mais ça ne lui sert surtout que pour améliorer ses compétences. De plus, elle possède ce qu'elle appelle un ULTIME, qui fait apparaître cinq armes lasers qui tirent en même temps avant de disparaître.
 
@@ -45,7 +46,7 @@ Ils ne boostent que les capacités humaines, et non les pouvoirs. Ils peuvent au
 - Ses snipers invoqués ont 500 m de porté.
 - En forme d'Ekraminarok, ses lunettes lui permettent de voir ses cooldown et buff, ainsi que ses statistiques.
 
-# [[Technopathe]]
+# [[../../../notes/Technopathe.md]]
 
 Ashling est capable de se transporter dans la plupart des objets électronique et système informatique, à des degrés très divers, pouvant aller du simple contrôle psychique à un transfert mental.
 
