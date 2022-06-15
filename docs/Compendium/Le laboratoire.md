@@ -2,13 +2,13 @@
 date: 02-05-2022
 share: true
 obsidianUIMode: source
-title: ../../notes/Éden.md 28500
+title: ../notes/Éden.md 28500
 description: "Éden est une zombie adorable, diplomate, qui écoute les autres et n'aime pas la violence."
-category: Compendium/Personnages
+category: Compendium
 type: Fiche
 univers: Le laboratoire
 tags: RP/Le-laboratoire/Fiche/PJ
-image: ../../assets/img/IMG_1314.jpg
+image: ../assets/img/IMG_1314.jpg
 cover: https://www.mara-li.fr/assets/img/IMG_1314.jpg
 ---
 %% Parent:: [[Éden]]%%
@@ -27,7 +27,7 @@ I n t r o d u c t i o n<br>
 C a p a c i t é<br>
 ╚═══━━━─── • ───━━━═══╝</h1>
 
-%%  [[../../notes/Zombie.md]]  %%
+%%  [[../notes/Zombie.md]]  %%
 
 **► Nature** : Transformation et renforcement
 
