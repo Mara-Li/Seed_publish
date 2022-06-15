@@ -1,8 +1,9 @@
 ---
-share: True
-title: Comment j'utilise Obsidian
+share: true
+title: "Comment j'utilise Obsidian"
 ---
-Comme je l'ai déjà dit dans [[Pourquoi Obsidian]], mon utilisation du logiciel diffère assez des autres utilisateurs. 
+
+Comme je l'ai déjà dit dans [[Pourquoi Obsidian.md]], mon utilisation du logiciel diffère assez des autres utilisateurs. 
 En effet, j'utilise une hiérarchie de dossier principalement, notamment parce que c'est aussi plus facile d'y naviguer directement depuis l'explorateur et, personnellement j'ai moins de soucis pour parcourir mentalement.
 
 Mon astuce se trouve dans l'utilisation du plugin [Folder Note](https://github.com/aidenlx/alx-folder-note), et [Dataview](https://github.com/blacksmithgu/obsidian-dataview). 
@@ -20,19 +21,18 @@ Nom du perso/
 ├─ Nom du perso (*)
 ```
 
-
 Note : les fichiers marqué d'un astérisque sont invisibles dans Obsidian s'ils ont le même nom que le dossier. Il est possible de personnaliser le comportement de Folder Note. Par exemple, vous pouvez les mettre à l'extérieur ou utiliser le nom "index" par défaut. 
-Typiquement, pour la fiche de [[/Roleplay/Personnages/Hayleen May/index.md|Hayleen May]], le truc ressemble à ça :
-![[Pasted image 20220126170658.png]]
+Typiquement, pour la fiche de [[../Compendium/Personnages/Hayleen May/Hayleen May.md|(i) Hayleen May]], le truc ressemble à ça :
+![[../assets/img/Pasted image 20220126170658.png]]
 Mais en réalité, le dossier est composé comme ça :
-![[Pasted image 20220126171043.png|800]]
-![[Pasted image 20220126171006.png]]
+![[../assets/img/Pasted image 20220126171043.png|800]]
+![[../assets/img/Pasted image 20220126171006.png]]
 
 Généralement, les notes servant de folder note (celles ayant le même nom que le dossier) sont des indexs, avec des liens vers les autres fichiers. Ca me permet d'accéder rapidement aux autres fichiers et d'avoir une vue d'ensemble. 
 D'ailleurs, j'hésite pas à placer un tableau au début des fiches (qui se fait automatiquement) par dataview pour avoir encore une vue d'ensemble et des raccourcis vers les autres fichiers.
 
 C'est d'ailleurs pour ça que j'utilise beaucoup des métadonnées pour classés mes fiches et leur donner une apparence précise quand je les cite. 
-![[Pasted image 20220126172840.png]]
+![[../assets/img/Pasted image 20220126172840.png]]
 (Ces apparences spéciales sont faites par un snippet CSS bordélique et par l'utilisation du plugin [SuperchargedLink](https://github.com/mdelobelle/obsidian_supercharged_links)). 
 
 Ensuite, j'écris mes fiches exactement comme je le ferai dans Word/Google Note, les liens et les trucs mignons en plus. Mes fichiers sont justes "mieux" rangés, et mes images ne se perdent plus vraiment. Et, bonus, je peux garder une galerie littéralement à porté de main dans Obsidian, et faire un lien dessus. Pratique pour les refs de personnages.
@@ -52,6 +52,6 @@ Pareil, plutôt que de péter entièrement la mise en forme quand je rajoute une
 
 C'est plus léger et pratique, et ça me convient super bien. 
 
-Typiquement le "carnet" de [[/Roleplay/Personnages/Mnémosyne/index.md|Mnémosyne]] pour [[(Fiche) Mnémosyne (Lagendia)|Lagendia]] ressemble à ça :
-![[Pasted image 20220126174208.png]]
+Typiquement le "carnet" de [[../Compendium/Personnages/Mnémosyne/Mnémosyne.md|(i) Mnémosyne]] pour [[../Compendium/Personnages/Mnémosyne/(Fiche) Mnémosyne (Lagendia).md|Lagendia]] ressemble à ça :
+![[../assets/img/Pasted image 20220126174208.png]]
 (Petit bonus : Relation est un dossier, donc si je veux prendre des notes sur un perso, ça me créera un fichier automatiquement en cliquant sur le lien, et j'aurai **rien** à bouger.)
