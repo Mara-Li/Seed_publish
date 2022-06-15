@@ -1,20 +1,20 @@
 ---
+tag: Lagendia
 RP: Lagendia
 title: Lagendia (brouillon) Kara Grimalkin
-category: Roleplay/Personnages/Kara Grimalkin
-data: "12-04-2022"
-share: True
-description: "Brouillon de la fiche de Kara, attendant que je puisse la faire"
-type: Fiche
+category: Compendium/Personnages/Kara Grimalkin
+data: 12-04-2022
+share: true
+description: 'Brouillon de la fiche de Kara, attendant que je puisse la faire'
+type: Fiche 
 state: ✒️
-tags: Lagendia
 ---
+
 ```dataview
 LIST
 FROM [[#]] and "20. Compendium"
 WHERE type != "fiche" 
 ```
-
 
 <h2 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 I n t r o d u c t i o n<br>
@@ -26,6 +26,7 @@ I n t r o d u c t i o n<br>
 **Race :** 
 **Métier** : 
 
+%% 7 emplacements de capacités %%
 <h2 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 P r o j e t s&nbsp;&nbsp;&nbsp;f u t u r s <br>
 ╚═══━━━─── • ───━━━═══╝</h2>
@@ -134,4 +135,4 @@ P o u v o i r s<br>
 *Cooldown* : 
 *Domaine* : 
 *Effet* : 
-*Description* :
+*Description* : 
