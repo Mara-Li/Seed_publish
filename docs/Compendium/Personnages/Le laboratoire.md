@@ -1,19 +1,18 @@
 ---
-date: "02-05-2022"
-share: True
+date: 02-05-2022
+share: true
 obsidianUIMode: source
-title: Éden 28500
+title: ../../notes/Éden.md 28500
 description: "Éden est une zombie adorable, diplomate, qui écoute les autres et n'aime pas la violence."
-category: Roleplay/Personnages
+category: Compendium/Personnages
 type: Fiche
 univers: Le laboratoire
-image: IMG_1314.jpg
-tags: 
-- RP
-- Le-laboratoire
-- Fiche
-- PJ
+tags: RP/Le-laboratoire/Fiche/PJ
+image: ../../assets/img/IMG_1314.jpg
+cover: https://www.mara-li.fr/assets/img/IMG_1314.jpg
 ---
+%% Parent:: [[Éden]]%%
+%% [Google docs](https://docs.google.com/document/d/1Do90LNHl8FXpdIShSMy4FPq8CQWuqflE0mES_BB8M9w/edit?usp=sharing) %%
  <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 I n t r o d u c t i o n<br>
 ╚═══━━━─── • ───━━━═══╝</h1>
@@ -28,6 +27,7 @@ I n t r o d u c t i o n<br>
 C a p a c i t é<br>
 ╚═══━━━─── • ───━━━═══╝</h1>
 
+%%  [[../../notes/Zombie.md]]  %%
 
 **► Nature** : Transformation et renforcement
 
@@ -60,22 +60,7 @@ D e s c r i p t i o n<br>
 
 ## ──────༺ Physique ༻──────
 
-![[IMG_1314.jpg|+side]] 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-► **Yeux** : Rouge
+![[IMG_1314.jpg|+side]] ► **Yeux** : Rouge
 ► **Cheveux** : Blancs - Gris, mi-long, attachée en une queue de cheval (généralement)
 ► **Taille** : 1m58
 ► **Poids** : Variable, 55kg de base
