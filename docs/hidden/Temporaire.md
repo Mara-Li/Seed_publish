@@ -14,3 +14,4 @@ category: hidden
 
 Bonjour, je suis à la recherche d'un RP Star Wars (quelque soit la période) actif. Je ne suis pas la meilleure des connaisseuse de l'univers et je cherche donc un RP accueillant pour les nouveaux et je suis prête à apprendre des pans entier du lore s'il le faut !
 
+bloup
