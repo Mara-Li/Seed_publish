@@ -1,22 +1,21 @@
 ---
 obsidianUIMode: preview
-share: True
+share: true
 category: hidden
-type: "Index, Idée"
+type: Index, Idée
 ---
 ```folderv
 ```
 
-
 # Liste de pouvoirs
 - Invoquer un stand avec l’aide d’un téléphone (donc gérer la batterie du téléphone à chaque invocation)
-- [[Nécromancie]]
+- [[../notes/Nécromancie.md]]
 - [[Contrôle élémentaires]]
 - [[Contrôle du sang]]
 - [[Téléportation]]
-- [[Invocation d'armes]]
+- [[../notes/Invocation d'armes.md]]
 - [[Technomage]]
-- [[Sortilège]]
+- [[../notes/Sortilège.md]]
 - [[Alchimie]]
 - [[Soins]]
 - [[Molécule ]]
@@ -29,7 +28,7 @@ type: "Index, Idée"
 - [[Télékinésie]]
 - [[Télépathie]]
 - [[Gravité]]
-- [[Spiritisme]]
+- [[../notes/Spiritisme.md]]
 - [[Charisme]]
 - [[Écrit]]
 - [[Double]]
@@ -37,6 +36,6 @@ type: "Index, Idée"
 - [[Estompage]]
 - [[Biomasse]]
 - [[Suggestion]]
-- [[Pixellisation]]
-- [[Zombie]]
-- [[Technopathe]]
+- [[../notes/Pixellisation.md]]
+- [[../notes/Zombie.md]]
+- [[../notes/Technopathe.md]]
