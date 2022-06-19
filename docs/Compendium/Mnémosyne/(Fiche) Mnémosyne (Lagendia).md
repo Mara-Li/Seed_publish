@@ -1,5 +1,7 @@
 ---
-tag: Lagendia
+tag: 
+ - RP/Lagendia
+ - Mnémosyne
 title: (Lagendia) Mnémosyne
 share: true
 date: 15-11-2021
