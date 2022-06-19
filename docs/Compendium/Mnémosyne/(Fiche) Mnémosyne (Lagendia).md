@@ -13,9 +13,9 @@ state: 🟢
 %% [[index.md|Original]] ; [[Lagendia (N)|Carnet]] %%
 
 ```dataview
-Table WITHOUT ID state as Status, (link(file.path, title)) as LINK 
+LIST WITHOUT ID 
 FROM [[#]]
-WHERE type="Fiche" and contains(file.name, "Mnémosyne")
+WHERE contains(file.folder,"Compendium")
 ```
 
 
@@ -51,11 +51,13 @@ $\qquad$Elle n'ira **jamais** volontairement mentir, et ne mentira que par omiss
 Son seul moyen de mentir est de mentir par omission, ce qu'elle n'hésite pas à faire.
 
 ###### Aime :
+
 - La musique
 - Le dessin
 - La menthe poivrée
 
 ###### Déteste :
+
 - Les murs
 - Les escaliers
 - Les pommes
@@ -63,11 +65,13 @@ Son seul moyen de mentir est de mentir par omission, ce qu'elle n'hésite pas à
 - Mentir, et les mensonges. 
 
 ###### Trivia :
+
 - Elle est capable de lire, mais cela lui demande beaucoup d'énergie. Pour se faire, elle envoie une légère dose de lumière, qui rebondit de manière différente sur l'encre et le papier.
 - Elle pourra faire pareil pour les murs, mais elle verrait surtout tous les insectes et autres présents dessus, et cela serait plus terrifiant que pratique. Donc elle ne le fait pas et utilise donc une canne pour se diriger la plupart du temps.
 - Elle perçoit les personnes sous forme de "couleurs" (puisqu'elle voit sous forme de lumière) et n'hésitera pas à appeler les gens selon leur couleur, notamment pour se moquer gentiment.
 
 ###### Peurs et phobies :
+
 Pour une raison obscure, Mnémosyne est terrifiée par les insectes. En dehors de ça, rien ne semble réellement l'effrayer.
 <h2 style="text-align:center">──────༺ Physique ༻──────</h2>
 
@@ -97,6 +101,7 @@ Généralement, les couleurs qu'elle portera seront plutôt neutre, type marron,
 <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 H i s t o i r e<br>
 ╚═══━━━─── • ───━━━═══╝</h1>
+
 ### ⟦ Dix ans plus tôt ⟧
 
 *Sacrifier. Sacrifier son âme.*
@@ -128,7 +133,7 @@ Il la repoussa avec sa magie, sans l'écouter.
 *█████ vint se poser à ses côtés.*
 
 — Je ne t'achèverai pas, dit-il.
-— Tu... Devrais. Parvint elle à articuler.
+— Tu… Devrais. Parvint elle à articuler.
 
 *"C'est le seul moyen de ne pas être déchu", pensa-t-elle, alors que les meurtres, en tant de guerre, n'avait pas d'effet. Sauf quand on attaquait son propre camp.*
 *Il lui prit la lance de ses mains.*
@@ -138,7 +143,7 @@ Il la repoussa avec sa magie, sans l'écouter.
 *Elle avait tout trahi. Leurs croyances, leurs idéaux, leurs clans. Elle avait tué de ses mains un de ses frères, pour en dévorer le cœur. Acquérir ses connaissances et sa magie. Passer un message.*
 *Pour mourir d'un bête poison.*
 
-— Au moins... *Elle ne finit pas sa phrase*
+— Au moins… *Elle ne finit pas sa phrase*
 
 *Elle ne le vit pas partir. Sa vue, maintenant, était éteinte. Elle ne voyait plus rien. Elle sentait juste s'échapper la vie de ses poumons, volée par un poison Sanktae.*
 
@@ -171,7 +176,7 @@ Ils ne devinrent qu'un.
 
 — Comme si ça allait la déranger. Tu peux y faire quelque chose ? 
 
-*Alazée était une excellente magicienne et excellait dans les sortilèges de soins. Salem la considérait comme la meilleure dans son domaine, mais... Disons que son avis n'était pas très objectif.*
+*Alazée était une excellente magicienne et excellait dans les sortilèges de soins. Salem la considérait comme la meilleure dans son domaine, mais… Disons que son avis n'était pas très objectif.*
 
 — Je vois le problème. Elle n'a juste pas envie de se réveiller.
 
@@ -215,9 +220,11 @@ Il faut cependant noter que le meurtre d'un Sanktae par un autre est **extrêmem
 Au cours d'un meurtre, les centres de puissance du Sanktae sont modifiés, et il est possible pour certains de le vérifier. C'est pour cela que les meurtres sont facilement découverts et qu'il est possible de bannir les meurtriers, les suivre et surveiller. 
 
 ### ◌ Pouvoirs Sanktae ◌
+
 Les pouvoirs de Némo se manifeste principalement sous forme de lumière, et elle peut être capable de condenser la lumière en rayon et laser, se déplacer d'un point à un autre, ou encore créer un double de lumière.
 
 ### ◌ Pouvoirs Obsius ◌
+
 ==Bloqué : Actuellement, cette forme est bloquée et n'est pas utilisable.==
 
 Issue de sa fusion avec un être informe, [[20. Roleplay/_Archétype/index.md/Lagendia/Obsius|Obsius]] est la part sombre de Mnémosyne. Lorsqu'elle se fait posséder, Mnémosyne change physiquement :
@@ -227,6 +234,7 @@ Issue de sa fusion avec un être informe, [[20. Roleplay/_Archétype/index.md/La
 - Son contrôle de la lumière se converti en contrôle des ombres, mais dont les capacités sont similaires à son pouvoir original. Il est juste à noter que les faiblesses sont inversé et elle sera extrêmement sensible à la lumière. 
 
 ### ◌ Inconvénients ◌
+
 - Les Sanktae (et par extension, Némo) ne peuvent faire venir de la lumière de nulle part. Dans le cas d'un noir complet, il leur est quasiment impossible de faire appel à leur pouvoir, et leur auréole sera leur seule source de lumière. Cependant, il n'est pas réellement possible pour eux d'utiliser leur auréole comme source de lumière. Ceux qui ont tenté en sont morts. 
 - Némo est aveugle : Cependant, elle distingue les êtres vivants ou simplement animés. Pour le reste, elle utilise une cane *(cf [[(Fiche) index.md (Lagendia)#Trivia|trivia]])*
 	De plus, elle a tendance à se cogner partout.
