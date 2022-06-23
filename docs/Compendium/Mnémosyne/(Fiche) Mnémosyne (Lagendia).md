@@ -1,17 +1,18 @@
 ---
+tag: 
+ - RP/Lagendia
+ - Mnémosyne
 title: (Lagendia) Mnémosyne
-share: True
-date: "15-11-2021"
-description: "Fiche de Mnémosyne, adaptée à Légendia. Sanktae surveillante."
+share: true
+date: 15-11-2021
+description: Fiche de Mnémosyne, adaptée à Légendia. Sanktae surveillante.
 category: Compendium/Mnémosyne
 univers: Lagendia
 type: Fiche
 image: Mnémosyne
 state: 🟢
-tags: 
-- RP/Lagendia
-- Mnémosyne
 ---
+%% [[index.md|Original]] ; [[Lagendia (N)|Carnet]] %%
 
 ```dataview
 LIST WITHOUT ID 
@@ -20,12 +21,11 @@ WHERE contains(file.folder,"Compendium")
 ```
 
 
-
  <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 I n t r o d u c t i o n<br>
 ╚═══━━━─── • ───━━━═══╝</h1>
-![[twitter_commission_Mnemosyne.png|+side]]
-**Nom & Prénom :** Mnémosyne 
+
+![[../../assets/img/Némo_lillyth.jpg|+side]]**Nom & Prénom :** Mnémosyne 
 *Alias* : Némo
 
 **Âge :** 30 ans
@@ -36,6 +36,7 @@ I n t r o d u c t i o n<br>
 D e s c r i p t i o n<br>
 ╚═══━━━─── • ───━━━═══╝</h1>
 <h2 style="text-align:center">──────༺ Mental ༻──────</h2><br>
+%% Amusante, gentille, décalée, tête en l'air, maladroite, trompeuse %%
 
 $\qquad$Mnémosyne est une personne en apparence désinvolte et versatile. Elle apprécie s'amuser, et n'est pas du genre à déprimer sur les difficultés. Ce n'est pas le genre de personne à facilement détester les gens, et elle est plus à se méfier grand maximum. Il est donc extrêmement rare d'être détesté par Mnémosyne.
 
@@ -97,7 +98,8 @@ Notons : elle ne porte pas de lunettes de soleil, puisque cela la gêne fortemen
 **Style vestimentaire** : Elle a un style plutôt décontracté, presque sportif. Elle apprécie les bottines, les longs manteaux en cuir souples, les pulls, mais aussi les pantalons cargo ou les jupes souples. Cela dit, puisqu'elle est aveugle, elle ne fait pas vraiment attention à son apparence. 
 Généralement, les couleurs qu'elle portera seront plutôt neutre, type marron, beige, voire bordeaux. 
 
-**→ [[Illustration (Némo)|Illustration]]**{: #left}
+→ [[Illustration (Némo)|Illustration]] #left
+
 <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 H i s t o i r e<br>
 ╚═══━━━─── • ───━━━═══╝</h1>
