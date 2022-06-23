@@ -23,7 +23,7 @@ WHERE type != "OC" and type != "Fiche"
 ```
 ---
 > [!info]-  Informations principales.
->  ![[../../assets/img/twitter_commission_Mnemosyne.png|+side]]
+>  ![[../../assets/img/Némo_lillyth.jpg|+side]]
 > **Prénom et nom** : Mnémosyne
 > _Alias :_ Némo
 > 
