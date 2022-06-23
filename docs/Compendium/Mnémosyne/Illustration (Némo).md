@@ -14,18 +14,24 @@ cssclass: img-grid
 %%→ [[index.md]] %%
 #Lagendia 
 
->[!GRID]
->![[../../assets/img/Nemo_Medhas.png]]![[../../assets/img/Nemo_funny_medhas.jpeg]] ![[../../assets/img/Nemo_Grimm.jpeg]] 
->
->![[../../assets/img/twitter_commission_../../assets/img/Mnemosyne.png]]![[../../assets/img/Némo & Grimmerald.png]]
+> [!GRID] Medhas
+> ![[../../assets/img/Nemo_Medhas.png]] ![[../../assets/img/Nemo_funny_medhas.jpeg]] ![[../../assets/img/Nemo_Grimm.jpeg]] 
 > 
->![[../../assets/img/Némo — Dolce 1.png]]![[../../assets/img/Némo guirlande Dolce.png]] ![[../../assets/img/Némo portrait Dolce.png|]]
+> ![[../../assets/img/Némo & Grimmerald.png]] ![[../../assets/img/Grimm_Nemo.jpg]]
+> 
+> ![[index.md robe - Farraige.png]] ![[../../assets/img/Nemo_robe_medhas.png]] ![[../../assets/img/Nemo-Meme-Grimm.png]]
+
+> [!GRID] Phil
+> ![[../../assets/img/Némo — Dolce 1.png]] ![[../../assets/img/Némo guirlande Dolce.png]] ![[../../assets/img/Némo portrait Dolce.png|]]
+> ![[../../assets/img/Némo half dolce.png]] ![[../../assets/img/Panneau_némo.png]]
+
+> [!GRID] Gabrioche
+> ![[../../assets/img/Fanart Gabrioche.png]]
+
+>[!GRID] Commission
+>![[../../assets/img/twitter_commission_../../assets/img/Mnemosyne.png]] ![[index.md Fullbody.jpeg]] 
 >
->![[../../assets/img/Némo half dolce.png]]![[../../assets/img/Rosa_Garcia_2.png|300]] ![[../../assets/img/Mnemosyne.png|300]]
+>![[../../assets/img/Rosa_Garcia_2.png|300]] ![[../../assets/img/Mnemosyne.png|300]]
 >
->![[../../assets/img/Nemo by Mogeckko.jpeg]]![[index.md Fullbody.jpeg]]
+> ![[../../assets/img/Nemo by Mogeckko.jpeg]] ![[../../assets/img/Némo_lillyth.jpg]]
 >
->![[../../assets/img/Fanart Gabrioche.png]]![[index.md robe - Farraige.png]]
->
->![[../../assets/img/Panneau_némo.png]]![[../../assets/img/Grimm_Nemo.jpg]]
->![[../../assets/img/Nemo_robe_medhas.png]]
