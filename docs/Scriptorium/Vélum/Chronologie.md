@@ -9,7 +9,7 @@ tag:
   - RP/Bibliothèque-Infinie/Timeline
 ---
 
-# Antiquité
+## Antiquité
 
 - 700 v.JC : Babylone devient la capitale de la magie sous la directioen du Roi Gilgamesh.
   → Période de l'Âge des Dieux.
