@@ -1,0 +1,34 @@
+---
+share: true
+category: hidden
+---
+I
+Hello. 
+```toml
+	[buildPlans.fira-iosevka]
+	family = "Fira Iosevka"
+	spacing = "normal"
+	serifs = "sans"
+	no-cv-ss = true
+	
+	[buildPlans.fira-iosevka.variants]
+	inherits = "ss05"
+	
+	[buildPlans.fira-iosevka.variants.design]
+	l = "tailed-serifed"
+	paren = "large-contour"
+	brace = "straight"
+	ampersand = "upper-open"
+	ascii-single-quote = "raised-comma"
+	ascii-grave = "raised-turn-comma"
+	
+	[buildPlans.iosevka-custom.ligations]
+	inherits = "dlig"
+```
+
+
+
+>[!note]
+>>[!note]
+>>coucou
+
