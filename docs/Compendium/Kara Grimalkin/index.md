@@ -1,10 +1,11 @@
 ---
+title: Kara Grimalkin
 category: Compendium/Kara Grimalkin
-cover: "https://www.mara-li.fr/assets/img/Kara__BB.png"
+cover: https://www.mara-li.fr/assets/img/Kara__BB.png
 image: Kara__BB.png
-date: "11-03-2022"
-description: Fiche de Kara Grimalkin
-share: True
+date: 11-03-2022
+description: "Fiche de Kara Grimalkin"
+share: true
 type: OC
 univers: FFXIV
 ---
@@ -14,15 +15,9 @@ FROM [[#]]
 where type = "Fiche"
 ```
 
+![[../../hidden/Illustration]]
 
-!!! grid "Illustrations"
-	![[../../assets/img/Kara__BB.png]] 
-	![[../../assets/img/Kara_Full.png]]
-	
-	![[../../assets/img/Kara_Portrait2.png|]]
-	![[../../assets/img/Kara_portrait.png|]]
-
-**FFXIV**{: #FFXIV .hash} **Gardemald**{: #Gardemald .hash}
+#FFXIV #Gardemald
 # ─────༺ Présentation ༻─────
 
 **Nom** : Grimalkin
@@ -35,20 +30,22 @@ where type = "Fiche"
 **Genre** : F
 **Orientation sexuelle** : Bi
 
-*Race* : Hyuroise 
-*Origine* : Gardemald (Colonie)
+*Race* : Hyuroise [
+*Origine* : [[5Gardemald]] (Colonie)
 # ──────༺ Capacités ༻──────
-**Classe** : Chevalier Noir - Faucheur 
+**Classe** : Faucheur 
 **Attributs** : Après sa fusion avec 
 
 *Avantages* : 
 *Inconvénients* :
+*Écho :* :luc_check_circle:
+> Son écho lui permet de voir l'éther des gens (même ceux des personnes incapables de le maîtriser, comme les Gardemaldais) mais aussi et surtout ceux des morts et qui n'ont pas (ou pas encore) rejoins la rivière de la vie : des fantômes. Elle est ainsi capable (lorsque cela est possible) de communiquer avec eux. 
 
 # ──────༺ Physique ༻────── 
 *Taille* : 
 *Poids* : 
 
-**Yeux** : 
+**Yeux** : Vairon vert et bleus, avec une hétérochromie rappelant celle de certains Anciens (notamment Hythlodeus et Emeth-Selch)
 **Cheveux** : 
 **Peau** : 
 **Cicatrice** : 
@@ -75,6 +72,13 @@ where type = "Fiche"
 **Objectifs** : 
 
 # ─────༺ Éléments biographiques ༻────── 
+
+%% Temps : 0 → Année de la chute de Gardemald. Date à check quand je peux %%
+
+- -30 : Née à Gardemald, mais n'est pas une "pure-sang" gardemaldaise : sa famille, de carrière militaire, est issue d'une des plus anciennes colonies. Ils ont obtenu leur citoyenneté par l'armée et son totalement intégré à la vie du pays.  
+- -18 : Suis les traces de ses parents et rentre dans la meilleure académie militaire du pays, à l'âge de 12 ans. 
+
+
 ## Histoire
 
 ## Relations
