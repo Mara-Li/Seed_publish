@@ -1,9 +1,7 @@
 ---
-share: True
+share: true
 category: hidden
 ---
-I
-Hello. 
 ```toml
 	[buildPlans.fira-iosevka]
 	family = "Fira Iosevka"
@@ -27,8 +25,11 @@ Hello.
 ```
 
 
+Hello everyone ! It's been some times since my last update :)
 
+Quick changelog and informations :).
 
-> [!info] Titles too
-> >[!note] Title
-> >coucou
+First, I finally choose to reunite all issue in the Github Publisher repo. In the issue template, just select the workflow part of your interest. It will be better to check duplicate or other things. But please ! Check the mkdocs and material mkdocs documentation first !  ❤️
+
+In second, some under the hoods shiny new things :
+1. **Github Publisher** : 
