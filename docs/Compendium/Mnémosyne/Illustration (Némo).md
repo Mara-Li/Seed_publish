@@ -27,7 +27,7 @@ tags:
 > [!GRID] Gabrioche
 > ![[../../assets/img/Fanart Gabrioche.png]]
 
-> [!GRID] Chaa
+>[!GRID] Chaa
 > ![[../../assets/img/Chaa_Nemo_Rodon.png]]
 
 
