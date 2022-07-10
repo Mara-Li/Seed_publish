@@ -1,24 +1,24 @@
 ---
+tag: 
+ - RP/Lagendia
+ - Mnémosyne
 title: (Lagendia) Mnémosyne
-share: True
-date: "15-11-2021"
-description: "Fiche de Mnémosyne, adaptée à Légendia. Sanktae surveillante."
+share: true
+date: 15-11-2021
+description: Fiche de Mnémosyne, adaptée à Lagendia. Sanktae surveillante. Aveugle.
 category: Compendium/Mnémosyne
 univers: Lagendia
 type: Fiche
 image: Mnémosyne
 state: 🟢
-tags: 
-- RP/Lagendia
-- Mnémosyne
 ---
+%% [[index|Original]] ; [[Lagendia (N)|Carnet]] %%
 
 ```dataview
 LIST WITHOUT ID 
 FROM [[#]]
 WHERE contains(file.folder,"Compendium")
 ```
-
 
 
  <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
@@ -36,6 +36,7 @@ I n t r o d u c t i o n<br>
 D e s c r i p t i o n<br>
 ╚═══━━━─── • ───━━━═══╝</h1>
 <h2 style="text-align:center">──────༺ Mental ༻──────</h2><br>
+%% Amusante, gentille, décalée, tête en l'air, maladroite, trompeuse %%
 
 $\qquad$Mnémosyne est une personne en apparence désinvolte et versatile. Elle apprécie s'amuser, et n'est pas du genre à déprimer sur les difficultés. Ce n'est pas le genre de personne à facilement détester les gens, et elle est plus à se méfier grand maximum. Il est donc extrêmement rare d'être détesté par Mnémosyne.
 
@@ -76,7 +77,7 @@ Son seul moyen de mentir est de mentir par omission, ce qu'elle n'hésite pas à
 Pour une raison obscure, Mnémosyne est terrifiée par les insectes. En dehors de ça, rien ne semble réellement l'effrayer.
 <h2 style="text-align:center">──────༺ Physique ༻──────</h2>
 
-![[index.md Fullbody.jpeg|+side]]
+![[../../assets/img/Mnémosyne Fullbody.jpeg|+side]]
 
 *Taille* : 1,80 m
 *Poids* : 60 kg
@@ -97,7 +98,8 @@ Notons : elle ne porte pas de lunettes de soleil, puisque cela la gêne fortemen
 **Style vestimentaire** : Elle a un style plutôt décontracté, presque sportif. Elle apprécie les bottines, les longs manteaux en cuir souples, les pulls, mais aussi les pantalons cargo ou les jupes souples. Cela dit, puisqu'elle est aveugle, elle ne fait pas vraiment attention à son apparence. 
 Généralement, les couleurs qu'elle portera seront plutôt neutre, type marron, beige, voire bordeaux. 
 
-**→ [[Illustration (Némo)|Illustration]]**{: #left}
+→ [[Illustration (Némo)|Illustration]] #left
+
 <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 H i s t o i r e<br>
 ╚═══━━━─── • ───━━━═══╝</h1>
@@ -227,7 +229,7 @@ Les pouvoirs de Némo se manifeste principalement sous forme de lumière, et ell
 
 ==Bloqué : Actuellement, cette forme est bloquée et n'est pas utilisable.==
 
-Issue de sa fusion avec un être informe, [[20. Roleplay/_Archétype/index.md/Lagendia/Obsius|Obsius]] est la part sombre de Mnémosyne. Lorsqu'elle se fait posséder, Mnémosyne change physiquement :
+Issue de sa fusion avec un être informe, [[20. Roleplay/_Archétype/Mnémosyne/Lagendia/Obsius|Obsius]] est la part sombre de Mnémosyne. Lorsqu'elle se fait posséder, Mnémosyne change physiquement :
 - Des écailles sombres apparaissent sur ses joues, cou, jambes et bras.
 - Des griffes noires et effilées poussent à la place de ses ongles
 - Son auréole devient noire.
@@ -236,7 +238,7 @@ Issue de sa fusion avec un être informe, [[20. Roleplay/_Archétype/index.md/La
 ### ◌ Inconvénients ◌
 
 - Les Sanktae (et par extension, Némo) ne peuvent faire venir de la lumière de nulle part. Dans le cas d'un noir complet, il leur est quasiment impossible de faire appel à leur pouvoir, et leur auréole sera leur seule source de lumière. Cependant, il n'est pas réellement possible pour eux d'utiliser leur auréole comme source de lumière. Ceux qui ont tenté en sont morts. 
-- Némo est aveugle : Cependant, elle distingue les êtres vivants ou simplement animés. Pour le reste, elle utilise une cane *(cf [[(Fiche) index.md (Lagendia)#Trivia|trivia]])*
+- Némo est aveugle : Cependant, elle distingue les êtres vivants ou simplement animés. Pour le reste, elle utilise une cane *(cf [[(Fiche) Mnémosyne (Lagendia)#Trivia|trivia]])*
 	De plus, elle a tendance à se cogner partout.
 - Son pouvoir aveugle allié et ennemi.
 - Elle ne peut récupérer, d'aucune manière, la vue. 
