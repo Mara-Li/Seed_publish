@@ -9,7 +9,7 @@ description: Fiche de Mnémosyne, adaptée à Lagendia. Sanktae surveillante. Av
 category: Compendium/Mnémosyne
 univers: Lagendia
 type: Fiche
-image: Mnémosyne
+image: Némo_lillyth.jpg
 state: 🟢
 ---
 %% [[index|Original]] ; [[Lagendia (N)|Carnet]] %%
@@ -25,7 +25,7 @@ WHERE contains(file.folder,"Compendium")
 I n t r o d u c t i o n<br>
 ╚═══━━━─── • ───━━━═══╝</h1>
 
-![[../../assets/img/Némo_lillyth.jpg|+side]]**Nom & Prénom :** Mnémosyne 
+![[../../assets/img/Némo_lillyth.jpg|+side]]**Nom & Prénom :** Mnémosyne
 *Alias* : Némo
 
 **Âge :** 30 ans
@@ -41,15 +41,15 @@ D e s c r i p t i o n<br>
 $\qquad$Mnémosyne est une personne en apparence désinvolte et versatile. Elle apprécie s'amuser, et n'est pas du genre à déprimer sur les difficultés. Ce n'est pas le genre de personne à facilement détester les gens, et elle est plus à se méfier grand maximum. Il est donc extrêmement rare d'être détesté par Mnémosyne.
 
 Elle aime s'amuser et est alors amusante pour son entourage. Elle aime rire, et n'hésite pas à se moquer de sa condition d'aveugle ou d'amnésique. C'est le genre de personne décalée qui exagère volontairement sa maladresse et qui paraît tête en l'air.
-En vérité, elle réfléchit et note tout, mais elle apprécie se faire passer pour plus faible qu'elle est au maximum. Elle fait cela, car il est plus facile de se faire un avis sur les gens face à la faiblesse que la force. 
+En vérité, elle réfléchit et note tout, mais elle apprécie se faire passer pour plus faible qu'elle est au maximum. Elle fait cela, car il est plus facile de se faire un avis sur les gens face à la faiblesse que la force.
 
-$\qquad$Ses amis et entourage sont importants pour elle, et pour rien au monde, elle ne les laissera tomber. Cela dit, elle n'hésiterait pas à aller contre eux si elles trouvent que leur décision est "complètement connes". Elle n'a pas sa langue dans sa poche, malgré son air fragile et d'oiseau tombé du nid. 
+$\qquad$Ses amis et entourage sont importants pour elle, et pour rien au monde, elle ne les laissera tomber. Cela dit, elle n'hésiterait pas à aller contre eux si elles trouvent que leur décision est "complètement connes". Elle n'a pas sa langue dans sa poche, malgré son air fragile et d'oiseau tombé du nid.
 
 Notons qu'elle n'hésite pas à frapper du malandrin avec sa canne même si elle est plus du genre beau-parleur que dans l'action. Sauf si cela devient réellement nécessaire.
 Elle utilisera sa magie, à pleine puissante, qu'en dernier recours, et si elle n'a pas d'allier à disposition pour la défendre ou se défendre.
-Elle tient énormément à faire tenir sa fausse faiblesse, quitte à omettre certains détails quant à ses pouvoirs. 
+Elle tient énormément à faire tenir sa fausse faiblesse, quitte à omettre certains détails quant à ses pouvoirs.
 
-$\qquad$Elle n'ira **jamais** volontairement mentir, et ne mentira que par omission. Jamais elle ne mentira, elle en est **incapable**. Au point de s'en rendre malade, et d'en vomir. 
+$\qquad$Elle n'ira **jamais** volontairement mentir, et ne mentira que par omission. Jamais elle ne mentira, elle en est **incapable**. Au point de s'en rendre malade, et d'en vomir.
 Son seul moyen de mentir est de mentir par omission, ce qu'elle n'hésite pas à faire.
 
 ###### Aime :
@@ -64,7 +64,7 @@ Son seul moyen de mentir est de mentir par omission, ce qu'elle n'hésite pas à
 - Les escaliers
 - Les pommes
 - Les insectes
-- Mentir, et les mensonges. 
+- Mentir, et les mensonges.
 
 ###### Trivia :
 
@@ -87,16 +87,16 @@ Pour une raison obscure, Mnémosyne est terrifiée par les insectes. En dehors d
 *Traits notables* : Petite tâche de rousseur sur l'ensemble du visage
 *Cicatrice* : Aucune, ce qui la rend **étrange**
 
-Mnémosyne est une femme de grande taille, mais assez poids plume : De fait, elle apparaît parfois comme une sorte de squelettes sur patte, et elle joue beaucoup sur cette apparence. 
-Sa peau est pâle et ses cheveux gris sont coiffés absolument dans tous les sens — bien que plutôt long. 
+Mnémosyne est une femme de grande taille, mais assez poids plume : De fait, elle apparaît parfois comme une sorte de squelettes sur patte, et elle joue beaucoup sur cette apparence.
+Sa peau est pâle et ses cheveux gris sont coiffés absolument dans tous les sens — bien que plutôt long.
 Elle a une démarche plutôt droite, malgré le fait qu'elle s'aide tout le temps de sa canne d'aveugle. Niveau voix, on va dire qu'elle a des accents grincheux et légèrement grinçant. Difficile à expliquer. Comme si elle avait un léger grain dans la voix. Sinon, elle sourit quasiment tout le temps.
 
-Son visage est assez ovale, avec un petit nez et des yeux très légèrement tombants, entièrement blanc — puisqu'il se trouve qu'elle est aveugle. Elle a des lèvres fines et une bouche bien dessinée. Enfin, elle possède de petites tâches de rousseurs sur l'ensemble du visage, mais surtout sur son nez et joues. 
-Notons : elle ne porte pas de lunettes de soleil, puisque cela la gêne fortement pour utiliser ses pouvoirs. 
+Son visage est assez ovale, avec un petit nez et des yeux très légèrement tombants, entièrement blanc — puisqu'il se trouve qu'elle est aveugle. Elle a des lèvres fines et une bouche bien dessinée. Enfin, elle possède de petites tâches de rousseurs sur l'ensemble du visage, mais surtout sur son nez et joues.
+Notons : elle ne porte pas de lunettes de soleil, puisque cela la gêne fortement pour utiliser ses pouvoirs.
 ![[../../assets/img/Nemo by Mogeckko.jpeg|+rside]]
 
-**Style vestimentaire** : Elle a un style plutôt décontracté, presque sportif. Elle apprécie les bottines, les longs manteaux en cuir souples, les pulls, mais aussi les pantalons cargo ou les jupes souples. Cela dit, puisqu'elle est aveugle, elle ne fait pas vraiment attention à son apparence. 
-Généralement, les couleurs qu'elle portera seront plutôt neutre, type marron, beige, voire bordeaux. 
+**Style vestimentaire** : Elle a un style plutôt décontracté, presque sportif. Elle apprécie les bottines, les longs manteaux en cuir souples, les pulls, mais aussi les pantalons cargo ou les jupes souples. Cela dit, puisqu'elle est aveugle, elle ne fait pas vraiment attention à son apparence.
+Généralement, les couleurs qu'elle portera seront plutôt neutre, type marron, beige, voire bordeaux.
 
 → [[Illustration (Némo)|Illustration]] #left
 
@@ -111,11 +111,11 @@ H i s t o i r e<br>
 
 *Tenant fermement la lance de ██████, elle jeta un regard vers on adversaire.*
 
-— Je vois que tu as choisi ton camp, lança █████. 
+— Je vois que tu as choisi ton camp, lança █████.
 
 *Elle sourit, en faisant un pas en arrière. Arracher la lance des mains d'un adversaire dont on avait dévoré le cœur était plus facile.*
 
-— Dois-je énumérer tes crimes ? 
+— Dois-je énumérer tes crimes ?
 
 *Elle n'attendit pas sa réponse, et déploya sa magie et ses ailes, brillant de mille feu. Ce n'impressionna pas vraiment son adversaire, puisqu'il fit la même chose.*
 
@@ -140,7 +140,7 @@ Il la repoussa avec sa magie, sans l'écouter.
 *"C'est le seul moyen de ne pas être déchu", pensa-t-elle, alors que les meurtres, en tant de guerre, n'avait pas d'effet. Sauf quand on attaquait son propre camp.*
 *Il lui prit la lance de ses mains.*
 
-— La dévoreuse n'est plus. 
+— La dévoreuse n'est plus.
 
 *Elle avait tout trahi. Leurs croyances, leurs idéaux, leurs clans. Elle avait tué de ses mains un de ses frères, pour en dévorer le cœur. Acquérir ses connaissances et sa magie. Passer un message.*
 *Pour mourir d'un bête poison.*
@@ -151,10 +151,10 @@ Il la repoussa avec sa magie, sans l'écouter.
 
 ##### **◇ Obsius ◇**
 
-L'être n'avait pas de forme réelle. Parfois, ils en adoptaient une, et la gardait. Mais Obsius n'avait jamais réussi à se décider. 
-Ils étaient des créatures qui aimaient simplement manger. Tranquillement, dans leur coin. Personne ne faisait vraiment attention à eux. 
-Ils vivaient d'ombre, de nuit. 
-Ils ne connaissaient pas les Étrangers, et ils s'en fichaient royalement. 
+L'être n'avait pas de forme réelle. Parfois, ils en adoptaient une, et la gardait. Mais Obsius n'avait jamais réussi à se décider.
+Ils étaient des créatures qui aimaient simplement manger. Tranquillement, dans leur coin. Personne ne faisait vraiment attention à eux.
+Ils vivaient d'ombre, de nuit.
+Ils ne connaissaient pas les Étrangers, et ils s'en fichaient royalement.
 
 Il était malade. Il ne savait pas vraiment comment. Mais il était malade, et en fin de vie. Il avait suivi, peut-être par simple curiosité, l'étrange Sanktae, pendant son Voyage.
 Il ne voulait pas la voir mourir.
@@ -172,11 +172,11 @@ Ils ne devinrent qu'un.
 
 *Salem, lui, était plus dubitatif.*
 
-— Tu sais que tu n'as pas le droit de fumer dans un hôpital ? 
+— Tu sais que tu n'as pas le droit de fumer dans un hôpital ?
 
 *Il haussa les épaules et pointa l'ange comateux*
 
-— Comme si ça allait la déranger. Tu peux y faire quelque chose ? 
+— Comme si ça allait la déranger. Tu peux y faire quelque chose ?
 
 *Alazée était une excellente magicienne et excellait dans les sortilèges de soins. Salem la considérait comme la meilleure dans son domaine, mais… Disons que son avis n'était pas très objectif.*
 
@@ -190,7 +190,7 @@ Ils ne devinrent qu'un.
 
 — Je crois que nous avons du pain sur la planche, dit Salem, comme un constat.
 
-Elle savait respirer. Elle savait bouger. 
+Elle savait respirer. Elle savait bouger.
 Mais elle était aveugle.
 Et amnésique.
 
@@ -198,7 +198,7 @@ Et amnésique.
 
 Elle prit pour nom "Mnémosyne", suggérée par Alazée. Un jeu de mot avec mémoire, lui avait-elle dit. Et puis, c'était plus facile à porter que "Psyché", proposée par Salem sans vraiment d'explication.
 
-Le couple de mage faisait partie de l'Écho, une organisation secrète dont le but était de protéger l'Hua, d'éviter des nouvelles catastrophes, d'étudier le monde et son équilibre. 
+Le couple de mage faisait partie de l'Écho, une organisation secrète dont le but était de protéger l'Hua, d'éviter des nouvelles catastrophes, d'étudier le monde et son équilibre.
 
 Némo, sans aucun but, mais curieuse, choisit de les rejoindre. Elle voulait retrouver ses souvenirs, comprendre les Sanktae, et ce qui se cachait dans sa conscience.
 
@@ -215,11 +215,11 @@ Les Sanktae sont des êtres dont l'Hua apparaît sous **forme de contrôle de la
 
 Ils sont aussi capable de faire apparaître à volonté des ailes translucides, mais il leur est impossible de voler avec. Aujourd'hui encore, il est difficile de savoir à quoi sert (ou servait) ses ailes.
 
-Les Sanktae se mélangent naturellement à la population, et n'ont rien de particulier vis à vis des autres de race. Ils préfèrent cependant se regrouper en clan afin de faire respecter leur propres codes. Certains clans rejettent même les relations avec les autres races, mais d'autres sont beaucoup plus ouvert. 
+Les Sanktae se mélangent naturellement à la population, et n'ont rien de particulier vis à vis des autres de race. Ils préfèrent cependant se regrouper en clan afin de faire respecter leur propres codes. Certains clans rejettent même les relations avec les autres races, mais d'autres sont beaucoup plus ouvert.
 
-Il faut cependant noter que le meurtre d'un Sanktae par un autre est **extrêmement** tabou, quelque soit les circonstances. Si cela arrive, le Sanktae sera exclus et rejeté par sa propre race. 
+Il faut cependant noter que le meurtre d'un Sanktae par un autre est **extrêmement** tabou, quelque soit les circonstances. Si cela arrive, le Sanktae sera exclus et rejeté par sa propre race.
 
-Au cours d'un meurtre, les centres de puissance du Sanktae sont modifiés, et il est possible pour certains de le vérifier. C'est pour cela que les meurtres sont facilement découverts et qu'il est possible de bannir les meurtriers, les suivre et surveiller. 
+Au cours d'un meurtre, les centres de puissance du Sanktae sont modifiés, et il est possible pour certains de le vérifier. C'est pour cela que les meurtres sont facilement découverts et qu'il est possible de bannir les meurtriers, les suivre et surveiller.
 
 ### ◌ Pouvoirs Sanktae ◌
 
@@ -233,17 +233,17 @@ Issue de sa fusion avec un être informe, [[20. Roleplay/_Archétype/Mnémosyne/
 - Des écailles sombres apparaissent sur ses joues, cou, jambes et bras.
 - Des griffes noires et effilées poussent à la place de ses ongles
 - Son auréole devient noire.
-- Son contrôle de la lumière se converti en contrôle des ombres, mais dont les capacités sont similaires à son pouvoir original. Il est juste à noter que les faiblesses sont inversé et elle sera extrêmement sensible à la lumière. 
+- Son contrôle de la lumière se converti en contrôle des ombres, mais dont les capacités sont similaires à son pouvoir original. Il est juste à noter que les faiblesses sont inversé et elle sera extrêmement sensible à la lumière.
 
 ### ◌ Inconvénients ◌
 
-- Les Sanktae (et par extension, Némo) ne peuvent faire venir de la lumière de nulle part. Dans le cas d'un noir complet, il leur est quasiment impossible de faire appel à leur pouvoir, et leur auréole sera leur seule source de lumière. Cependant, il n'est pas réellement possible pour eux d'utiliser leur auréole comme source de lumière. Ceux qui ont tenté en sont morts. 
+- Les Sanktae (et par extension, Némo) ne peuvent faire venir de la lumière de nulle part. Dans le cas d'un noir complet, il leur est quasiment impossible de faire appel à leur pouvoir, et leur auréole sera leur seule source de lumière. Cependant, il n'est pas réellement possible pour eux d'utiliser leur auréole comme source de lumière. Ceux qui ont tenté en sont morts.
 - Némo est aveugle : Cependant, elle distingue les êtres vivants ou simplement animés. Pour le reste, elle utilise une cane *(cf [[(Fiche) Mnémosyne (Lagendia)#Trivia|trivia]])*
 	De plus, elle a tendance à se cogner partout.
 - Son pouvoir aveugle allié et ennemi.
-- Elle ne peut récupérer, d'aucune manière, la vue. 
+- Elle ne peut récupérer, d'aucune manière, la vue.
 - Son auréole est permanente et l'empêche de porter de chapeau. Si elle essaie, "elle a une migraine d'enfer, un peu comme être le passager du pire conducteur de la planète, tout en ayant la pire gueule de bois de sa vie."
-- Némo est amnésique, bien que cela n'impacte finalement peu sur ses capacités de combat. 
+- Némo est amnésique, bien que cela n'impacte finalement peu sur ses capacités de combat.
 - **Elle ne sait pas qu'elle est déchue.**
 - ==Il lui est impossible de contrôler Obsius==
 - ==Sous forme Obsius, elle devient extrêmement sensible à la lumière, et il lui est impossible de faire appel aux ténèbres en cas de forte lumière.==
@@ -258,33 +258,33 @@ Issue de sa fusion avec un être informe, [[20. Roleplay/_Archétype/Mnémosyne/
 *Bonus* : +10 au dé
 *Cooldown* : 2x par jour
 *Domaine* : Lumière ; Hua
-*Description* : Cinq lances de lumières apparaissent autour de Némo pour se planter dans son adversaire. 
+*Description* : Cinq lances de lumières apparaissent autour de Némo pour se planter dans son adversaire.
 
 ❖ — **Double de lumière** *(Actif)* — ❖
 *Bonus* : +10 au dé
 *Cooldown* : 2x par jour
 *Domaine* : Lumière ; Hua
-*Description* : Création d'un double de lumière, qui va imiter la dernière action de Mnémosyne avant de disparaître. L'attaque sera cependant plus faible. 
+*Description* : Création d'un double de lumière, qui va imiter la dernière action de Mnémosyne avant de disparaître. L'attaque sera cependant plus faible.
 
 ❖ — **Téléportation** *(Actif)* — ❖
 *Bonus* : +5 au dé
 *Cooldown* : 5x par jour — Ne peut pas traverser les murs ; Impossible sans lumière
 *Domaine* : Lumière ; Hua
-*Description* : Némo se déplace instantanément d'un point à un autre sur une courte distance. 
+*Description* : Némo se déplace instantanément d'un point à un autre sur une courte distance.
 
 ❖ — **Bouclier de lumière** *(Buff)* — ❖
 *Bonus* : +5 au dé
 *Cooldown* : 3x Jour — Nécessite de la lumière et ne fonctionne pas de nuit.
 *Domaine* : Hua, lumière
 *Durée* : 3 défenses
-*Effet* : +5 aux dés de défenses (uniquement) pour la personne protégée par le bouclier. 
-*Description* : Mnémosyne crée un bouclier de lumière sur elle ou un allié, afin de le protéger pendant quelque temps. 
+*Effet* : +5 aux dés de défenses (uniquement) pour la personne protégée par le bouclier.
+*Description* : Mnémosyne crée un bouclier de lumière sur elle ou un allié, afin de le protéger pendant quelque temps.
 
 ❖ — **Forme Sanktae** *(Buff)* — ❖
 *Bonus* : +5 au dé
 *Cooldown* : 1x jour — Épuise Némo à la fin de sa forme
 *Domaine* : Hua
-*Durée* : 5 rolls 
+*Durée* : 5 rolls
 *Effet* : Bonus +12 aux dés (uniquement sur Némo)
 *Description* : Némo déploie toute sa magie, renforçant l'ensemble de sa magie.
 
