@@ -24,4 +24,4 @@ category: hidden
 	inherits = "dlig"
 ```
 
-![[../../Ref snippet]]
+![[Ref snippet]]
