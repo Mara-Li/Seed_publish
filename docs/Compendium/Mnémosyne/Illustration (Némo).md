@@ -37,4 +37,4 @@ tags:
 >![[../../assets/img/Rosa_Garcia_2.png|300]] ![[../../assets/img/Mnemosyne.png|300]]
 >
 > ![[../../assets/img/Nemo by Mogeckko.jpeg]] ![[../../assets/img/Némo_lillyth.jpg]]
->
+> ![[../../assets/img/Perseith - Némo.png]]
