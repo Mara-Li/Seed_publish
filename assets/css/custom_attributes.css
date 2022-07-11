@@ -1,0 +1,40 @@
+.comments {
+    display: none;
+}
+
+#left {
+    display: inline-block;
+    width: 100%;
+    text-align: right;
+    font-weight: normal;
+}
+
+#u {
+    text-align: center;
+    display: block;
+}
+
+#tags {
+    background-color: rgba(142, 137, 137, 0.38);
+    border-radius: 5px;
+}
+
+.hash {
+    color: #0066ff;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+}
+
+.md-typeset .admonition.grid {
+    box-shadow: none;
+}
+
+.md-typeset .admonition.grid p:not(.admonition-title) {
+    display: grid;
+}
+
+.md-typeset .admonition.grid img {
+    display: table-cell;
+    vertical-align: middle;
+    grid-row: 2 / 4;
+}
