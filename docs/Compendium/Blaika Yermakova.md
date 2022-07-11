@@ -4,7 +4,7 @@ type: OC
 share: true
 description: Data sur Blaika
 cover: https://i.pinimg.com/originals/86/1d/47/861d4738b357c85e787e334bdc840002.jpg
-image: Blaika.jpg
+image: Blaïka.jpg
 category: Compendium
 tags:
 - OC
