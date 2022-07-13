@@ -34,7 +34,7 @@ where type = "Fiche"
 **Orientation sexuelle** : Bi
 
 *Race* : Hyuroise 
-*Origine* : [[../../../Gardemald]] (Colonie)
+*Origine* : [[Gardemald]] (Colonie)
 # ──────༺ Capacités ༻──────
 **Classe** : #Faucheur 
 **Attributs** :  
@@ -78,7 +78,7 @@ where type = "Fiche"
 
 %% Temps : 0 → Année de la chute de Gardemald. Date à check quand je peux %%
 
-- -30 : Née à [[../../../Gardemald]], mais n'est pas une "pure-sang" gardemaldaise : sa famille, de carrière militaire, est issue d'une des plus anciennes colonies. Ils ont obtenu leur citoyenneté par l'armée et son totalement intégré à la vie du pays.  
+- -30 : Née à [[Gardemald]], mais n'est pas une "pure-sang" gardemaldaise : sa famille, de carrière militaire, est issue d'une des plus anciennes colonies. Ils ont obtenu leur citoyenneté par l'armée et son totalement intégré à la vie du pays.  
 - -18 : Suis les traces de ses parents et rentre dans la meilleure académie militaire du pays, à l'âge de 12 ans. 
 
 
