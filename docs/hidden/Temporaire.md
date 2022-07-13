@@ -23,5 +23,3 @@ category: hidden
 	[buildPlans.iosevka-custom.ligations]
 	inherits = "dlig"
 ```
-
-![[Ref snippet]]
