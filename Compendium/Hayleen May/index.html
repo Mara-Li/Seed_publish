@@ -651,8 +651,8 @@ WHERE type="Fiche"</div>
 %%<a class="wikilink" href=".md">Index</a>%%</p>
 <blockquote>
 <p>[!GRID]<br/>
-<img class="wikilink" src=".md Portrait Gabrioche.jpeg"/><img class="wikilink" src="../../assets/img/COMMISSION_MARA_PP.png"/><img class="wikilink" src="../../assets/img/COMMISSION_FB_MARA.png"/></p>
-<p><img class="wikilink" src="../../assets/img/Hayleen — Medhas.png"/><img class="wikilink" src="../../assets/img/Hayleen.png"/><img class="wikilink" src="../../assets/img/Key_illu.png"/></p>
+<img class="wikilink" src=".md Portrait Gabrioche.jpeg"/><img class="wikilink" src="https://www.mara-li.fr/assets/img/COMMISSION_MARA_PP.png"/><img class="wikilink" src="https://www.mara-li.fr/assets/img/COMMISSION_FB_MARA.png"/></p>
+<p><img class="wikilink" src="https://www.mara-li.fr/assets/img/Hayleen%20%E2%80%94%20Medhas.png"/><img class="wikilink" src="https://www.mara-li.fr/assets/img/Hayleen.png"/><img class="wikilink" src="https://www.mara-li.fr/assets/img/Key_illu.png"/></p>
 </blockquote></div></p>
 <div class="admonition note">
 <p class="admonition-title">Identité</p>
@@ -817,6 +817,38 @@ Hayleen est une jeune femme assez bien proportionnée, dans la fleur de l’âge
         <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">17 juin 2022</span>
 </small>
 </div>
+<!-- Giscus -->
+<h2 id="__comments">Commentaires</h2>
+<script async="" crossorigin="anonymous" data-category-id="DIC_kwDOGlyxGM4CQMx1" data-emit-metadata="0" data-input-position="top" data-lang="fr" data-mapping="url" data-reactions-enabled="1" data-repo="mara-Li/Seed_Publish" data-repo-id="R_kgDOGlyxGA" data-theme="dark_dimmed" src="https://giscus.app/client.js">
+</script>
+<script>
+  var giscus = document.querySelector("script[src*=giscus]")
+
+  /* Set palette on initial load */
+  var palette = __md_get("__palette")
+  if (palette && typeof palette.color === "object") {
+    var theme = palette.color.scheme === "slate" ? "dark_dimmed" : "light"
+    giscus.setAttribute("data-theme", theme)
+  }
+
+  /* Register event handlers after documented loaded */
+  document.addEventListener("DOMContentLoaded", function () {
+    var ref = document.querySelector("[data-md-component=palette]")
+    ref.addEventListener("change", function () {
+      var palette = __md_get("__palette")
+      if (palette && typeof palette.color === "object") {
+        var theme = palette.color.scheme === "slate" ? "dark_dimmed" : "light"
+
+        /* Instruct Giscus to change theme */
+        var frame = document.querySelector(".giscus-frame")
+        frame.contentWindow.postMessage(
+          { giscus: { setConfig: { theme } } },
+          "https://giscus.app"
+        )
+      }
+    })
+  })
+</script>
 </article>
 </div>
 </div>

@@ -737,33 +737,33 @@ Dans tous les cas, personne ne prend Ashling — ou plutôt Ekraminarok — à l
 <p><a class="link_citation" href="https://www.mara-li.fr/Compendium/Ashling May/Illustration (Ashling)/"><i class="fas fa-link"></i> </a> <div class="citation"><h1>2017</h1>
 <blockquote>
 <p>[!GRID]<br/>
-<img class="wikilink" src="../../assets/img/Ref 2017.png"/><img class="wikilink" src="../../assets/img/Ashling hermite.png"/></p>
-<p><img class="wikilink" src="../../assets/img/Clothes ref.png"/></p>
+<img class="wikilink" src="https://www.mara-li.fr/assets/img/Ref%202017.png"/><img class="wikilink" src="https://www.mara-li.fr/assets/img/Ashling%20hermite.png"/></p>
+<p><img class="wikilink" src="https://www.mara-li.fr/assets/img/Clothes%20ref.png"/></p>
 </blockquote>
 <hr/>
 <h1>2018</h1>
-<p><img class="wikilink" src="../../assets/img/Emotion.png"/></p>
+<p><img class="wikilink" src="https://www.mara-li.fr/assets/img/Emotion.png"/></p>
 <hr/>
 <h1>2019:</h1>
-<p><img class="wikilink" src="../../assets/img/Ref.png"/></p>
+<p><img class="wikilink" src="https://www.mara-li.fr/assets/img/Ref.png"/></p>
 <h1>2020</h1>
 <blockquote>
 <p>[!GRID]<br/>
-<img class="wikilink" src="../../assets/img/Unlimited Breaks Point.png"/> <img class="wikilink" src="../../assets/img/Ashling_project_nucleus_.png"/></p>
+<img class="wikilink" src="https://www.mara-li.fr/assets/img/Unlimited%20Breaks%20Point.png"/> <img class="wikilink" src="https://www.mara-li.fr/assets/img/Ashling_project_nucleus_.png"/></p>
 </blockquote>
 <hr/>
 <h1>2021</h1>
-<p><img class="wikilink" src="../../assets/img/Ashling_x_robot.png"/></p>
+<p><img class="wikilink" src="https://www.mara-li.fr/assets/img/Ashling_x_robot.png"/></p>
 <hr/>
 <h1>Autres</h1>
 <blockquote>
 <p>[!GRID]<br/>
-<img class="wikilink" src="../../assets/img/ref1.png"/> <img class="wikilink" src="../../assets/img/ref2.png"/></p>
-<p><img class="wikilink" src="../../assets/img/ref4.png"/> <img class="wikilink" src="../../assets/img/ref3.png"/></p>
+<img class="wikilink" src="https://www.mara-li.fr/assets/img/ref1.png"/> <img class="wikilink" src="https://www.mara-li.fr/assets/img/ref2.png"/></p>
+<p><img class="wikilink" src="https://www.mara-li.fr/assets/img/ref4.png"/> <img class="wikilink" src="https://www.mara-li.fr/assets/img/ref3.png"/></p>
 </blockquote>
 <hr/>
 <h1>Commission:</h1>
-<p><img class="wikilink" src="../../assets/img/Commission Feilyn.png"/></p></div></p>
+<p><img class="wikilink" src="https://www.mara-li.fr/assets/img/Commission%20Feilyn.png"/></p></div></p>
 <hr/>
 <div class="md-source-file">
 <small>
@@ -775,6 +775,38 @@ Dans tous les cas, personne ne prend Ashling — ou plutôt Ekraminarok — à l
         <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">17 juin 2022</span>
 </small>
 </div>
+<!-- Giscus -->
+<h2 id="__comments">Commentaires</h2>
+<script async="" crossorigin="anonymous" data-category-id="DIC_kwDOGlyxGM4CQMx1" data-emit-metadata="0" data-input-position="top" data-lang="fr" data-mapping="url" data-reactions-enabled="1" data-repo="mara-Li/Seed_Publish" data-repo-id="R_kgDOGlyxGA" data-theme="dark_dimmed" src="https://giscus.app/client.js">
+</script>
+<script>
+  var giscus = document.querySelector("script[src*=giscus]")
+
+  /* Set palette on initial load */
+  var palette = __md_get("__palette")
+  if (palette && typeof palette.color === "object") {
+    var theme = palette.color.scheme === "slate" ? "dark_dimmed" : "light"
+    giscus.setAttribute("data-theme", theme)
+  }
+
+  /* Register event handlers after documented loaded */
+  document.addEventListener("DOMContentLoaded", function () {
+    var ref = document.querySelector("[data-md-component=palette]")
+    ref.addEventListener("change", function () {
+      var palette = __md_get("__palette")
+      if (palette && typeof palette.color === "object") {
+        var theme = palette.color.scheme === "slate" ? "dark_dimmed" : "light"
+
+        /* Instruct Giscus to change theme */
+        var frame = document.querySelector(".giscus-frame")
+        frame.contentWindow.postMessage(
+          { giscus: { setConfig: { theme } } },
+          "https://giscus.app"
+        )
+      }
+    })
+  })
+</script>
 </article>
 </div>
 </div>

@@ -637,7 +637,7 @@ where type = "Fiche"</div>
 <p><strong>Genre</strong> : F<br/>
 <strong>Orientation sexuelle</strong> : Bi</p>
 <p><em>Race</em> : Hyuroise <br/>
-<em>Origine</em> : <a href="../../../../../Gardemald" title="../../../Gardemald">../../../Gardemald</a> (Colonie)</p>
+<em>Origine</em> : <a href="../../Gardemald" title="Gardemald">Gardemald</a> (Colonie)</p>
 <h1 id="capacites">──────༺ Capacités ༻──────<a class="headerlink" href="#capacites" title="Permanent link">¶</a></h1>
 <p><strong>Classe</strong> : <strong class="hash" id="Faucheur">Faucheur</strong> <br/>
 <strong>Attributs</strong> :  </p>
@@ -698,7 +698,7 @@ where type = "Fiche"</div>
 <strong>Objectifs</strong> : </p>
 <h1 id="elements-biographiques">─────༺ Éléments biographiques ༻──────<a class="headerlink" href="#elements-biographiques" title="Permanent link">¶</a></h1>
 <ul>
-<li>-30 : Née à <a href="../../../../../Gardemald" title="../../../Gardemald">../../../Gardemald</a>, mais n’est pas une “pure-sang” gardemaldaise : sa famille, de carrière militaire, est issue d’une des plus anciennes colonies. Ils ont obtenu leur citoyenneté par l’armée et son totalement intégré à la vie du pays.  </li>
+<li>-30 : Née à <a href="../../Gardemald" title="Gardemald">Gardemald</a>, mais n’est pas une “pure-sang” gardemaldaise : sa famille, de carrière militaire, est issue d’une des plus anciennes colonies. Ils ont obtenu leur citoyenneté par l’armée et son totalement intégré à la vie du pays.  </li>
 <li>-18 : Suis les traces de ses parents et rentre dans la meilleure académie militaire du pays, à l’âge de 12 ans. </li>
 </ul>
 <h2 id="histoire">Histoire<a class="headerlink" href="#histoire" title="Permanent link">¶</a></h2>
@@ -718,6 +718,38 @@ where type = "Fiche"</div>
         <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">17 juin 2022</span>
 </small>
 </div>
+<!-- Giscus -->
+<h2 id="__comments">Commentaires</h2>
+<script async="" crossorigin="anonymous" data-category-id="DIC_kwDOGlyxGM4CQMx1" data-emit-metadata="0" data-input-position="top" data-lang="fr" data-mapping="url" data-reactions-enabled="1" data-repo="mara-Li/Seed_Publish" data-repo-id="R_kgDOGlyxGA" data-theme="dark_dimmed" src="https://giscus.app/client.js">
+</script>
+<script>
+  var giscus = document.querySelector("script[src*=giscus]")
+
+  /* Set palette on initial load */
+  var palette = __md_get("__palette")
+  if (palette && typeof palette.color === "object") {
+    var theme = palette.color.scheme === "slate" ? "dark_dimmed" : "light"
+    giscus.setAttribute("data-theme", theme)
+  }
+
+  /* Register event handlers after documented loaded */
+  document.addEventListener("DOMContentLoaded", function () {
+    var ref = document.querySelector("[data-md-component=palette]")
+    ref.addEventListener("change", function () {
+      var palette = __md_get("__palette")
+      if (palette && typeof palette.color === "object") {
+        var theme = palette.color.scheme === "slate" ? "dark_dimmed" : "light"
+
+        /* Instruct Giscus to change theme */
+        var frame = document.querySelector(".giscus-frame")
+        frame.contentWindow.postMessage(
+          { giscus: { setConfig: { theme } } },
+          "https://giscus.app"
+        )
+      }
+    })
+  })
+</script>
 </article>
 </div>
 </div>

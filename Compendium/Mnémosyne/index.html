@@ -847,17 +847,17 @@ Généralement, les couleurs qu’elle portera seront plutôt neutre, type marro
 <p><a class="link_citation" href="https://www.mara-li.fr/Compendium/Mnémosyne/Illustration (Némo)/"><i class="fas fa-link"></i> </a> <div class="citation"><p>→ <a class="wikilink" href="https://www.mara-li.fr/Compendium/Mn%C3%A9mosyne/%28Fiche%29%20Mn%C3%A9mosyne%20%28Lagendia%29/">(Fiche) Mnémosyne (Lagendia)</a></p>
 <blockquote>
 <p>[!GRID] Phil<br/>
-<img class="wikilink" src="../../assets/img/Némo — Dolce 1.png"/> <img class="wikilink" src="../../assets/img/Némo guirlande Dolce.png"/> ![[../../assets/img/Némo portrait Dolce.png|]]<br/>
-<img class="wikilink" src="../../assets/img/Némo half dolce.png"/> <img class="wikilink" src="../../assets/img/Panneau_némo.png"/></p>
+<img class="wikilink" src="https://www.mara-li.fr/assets/img/N%C3%A9mo%20%E2%80%94%20Dolce%201.png"/> <img class="wikilink" src="https://www.mara-li.fr/assets/img/N%C3%A9mo%20guirlande%20Dolce.png"/> ![[../../assets/img/Némo portrait Dolce.png|]]<br/>
+<img class="wikilink" src="https://www.mara-li.fr/assets/img/N%C3%A9mo%20half%20dolce.png"/> <img class="wikilink" src="https://www.mara-li.fr/assets/img/Panneau_n%C3%A9mo.png"/></p>
 <p>[!GRID] Gabrioche<br/>
-<img class="wikilink" src="../../assets/img/Fanart Gabrioche.png"/></p>
+<img class="wikilink" src="https://www.mara-li.fr/assets/img/Fanart%20Gabrioche.png"/></p>
 <p>[!GRID] Chaa<br/>
-<img class="wikilink" src="../../assets/img/Chaa_Nemo_Rodon.png"/></p>
+<img class="wikilink" src="https://www.mara-li.fr/assets/img/Chaa_Nemo_Rodon.png"/></p>
 <p>[!GRID] Commission<br/>
-<img class="wikilink" src="../../assets/img/twitter_commission_Mnemosyne.png"/> <img class="wikilink" src="../../assets/img/Mnémosyne Fullbody.jpeg"/> </p>
-<p><img class="wikilink" src="../../assets/img/Rosa_Garcia_2.png"/> <img class="wikilink" src="../../assets/img/Mnemosyne.png"/></p>
-<p><img class="wikilink" src="../../assets/img/Nemo by Mogeckko.jpeg"/> <img class="wikilink" src="../../assets/img/Némo_lillyth.jpg"/><br/>
-<img class="wikilink" src="../../assets/img/Perseith - Némo.png"/></p>
+<img class="wikilink" src="https://www.mara-li.fr/assets/img/twitter_commission_Mnemosyne.png"/> <img class="wikilink" src="https://www.mara-li.fr/assets/img/Mn%C3%A9mosyne%20Fullbody.jpeg"/> </p>
+<p><img class="wikilink" src="https://www.mara-li.fr/assets/img/Rosa_Garcia_2.png"/> <img class="wikilink" src="https://www.mara-li.fr/assets/img/Mnemosyne.png"/></p>
+<p><img class="wikilink" src="https://www.mara-li.fr/assets/img/Nemo%20by%20Mogeckko.jpeg"/> <img class="wikilink" src="https://www.mara-li.fr/assets/img/N%C3%A9mo_lillyth.jpg"/><br/>
+<img class="wikilink" src="https://www.mara-li.fr/assets/img/Perseith%20-%20N%C3%A9mo.png"/></p>
 </blockquote></div></p>
 <hr/>
 <div class="md-source-file">
@@ -870,6 +870,38 @@ Généralement, les couleurs qu’elle portera seront plutôt neutre, type marro
         <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">17 juin 2022</span>
 </small>
 </div>
+<!-- Giscus -->
+<h2 id="__comments">Commentaires</h2>
+<script async="" crossorigin="anonymous" data-category-id="DIC_kwDOGlyxGM4CQMx1" data-emit-metadata="0" data-input-position="top" data-lang="fr" data-mapping="url" data-reactions-enabled="1" data-repo="mara-Li/Seed_Publish" data-repo-id="R_kgDOGlyxGA" data-theme="dark_dimmed" src="https://giscus.app/client.js">
+</script>
+<script>
+  var giscus = document.querySelector("script[src*=giscus]")
+
+  /* Set palette on initial load */
+  var palette = __md_get("__palette")
+  if (palette && typeof palette.color === "object") {
+    var theme = palette.color.scheme === "slate" ? "dark_dimmed" : "light"
+    giscus.setAttribute("data-theme", theme)
+  }
+
+  /* Register event handlers after documented loaded */
+  document.addEventListener("DOMContentLoaded", function () {
+    var ref = document.querySelector("[data-md-component=palette]")
+    ref.addEventListener("change", function () {
+      var palette = __md_get("__palette")
+      if (palette && typeof palette.color === "object") {
+        var theme = palette.color.scheme === "slate" ? "dark_dimmed" : "light"
+
+        /* Instruct Giscus to change theme */
+        var frame = document.querySelector(".giscus-frame")
+        frame.contentWindow.postMessage(
+          { giscus: { setConfig: { theme } } },
+          "https://giscus.app"
+        )
+      }
+    })
+  })
+</script>
 </article>
 </div>
 </div>
