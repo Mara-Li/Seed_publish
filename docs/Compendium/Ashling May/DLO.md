@@ -10,39 +10,46 @@ tag: RP/DLO/Fiche/PJ
 image: Commission Feilyn.png
 category: Compendium/Ashling May
 ---
-
-%% [[index.md]] %%
-
+%% [[index]] %%
 <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
-P r é s e n t a t i o n <br>
+I D  <br>
 ╚═══━━━─── • ───━━━═══╝</h1>
+![[Commission Feilyn.png|+side]]
+<h2 style="text-align:center">──────༺ I.R.L ༻──────</h2>
+**Nom** : May
+**Prénom** : Ashling
+**Âge** : 26 ans
+*Anniversaire* : 30-10 
 
-**Nom** : 
-**Prénom** : 
-*Alias* : 
+**Nationalité** : Irlandaise
+*Pays de naissance :* Irlande
+*Pays d'habitation :* Irlande
 
-**Âge** :
-*Anniversaire* :
+<h2 style="text-align:center">──────༺ D.L.O ༻──────</h2>
 
-**Genre** : 
-**Orientation sexuelle** : 
+**Pseudonyme** : Sola-UI
+*Rang :*
+*Magie* : 
+1. <u>Élément :</u>
+2. <u>Nom de la compétence unique :</u>
 
-*Race* :
+*Guilde :* /
+*Profession :*
+*Progression dans le jeu :*
 
-<h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
-C a p a c i t é s<br>
-╚═══━━━─── • ───━━━═══╝</h1>
-**Pouvoirs** : 
-**Attributs** : 
 
-*Avantages* : 
-*Inconvénients* :
 
 <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 D e s c r i p t i o n s<br>
 ╚═══━━━─── • ───━━━═══╝</h1>
+
+
+<h2 style="text-align:center">──────༺ Avatar ༻──────</h2>
+*Compétence unique :*
+*Sorts :*
+*Artefacts :*
 <h2 style="text-align:center">──────༺ Physique ༻──────</h2>
-*Taille*: 
+*Taille* : 
 *Poids* : 
 
 **Yeux** : 
@@ -54,28 +61,17 @@ D e s c r i p t i o n s<br>
 **Style vestimentaire** : 
 
 
-<h2 style="text-align:center">──────༺ Physique ༻──────</h2>
-| Défaut | Qualité |
-| ------ | ------- |
-|        |         |
+<h2 style="text-align:center">──────༺ Caractère ༻──────</h2>
+##### IRL
 
-| Aime | Déteste |
-| ---- | ------- |
+##### IN-GAME
 
 **Peurs** : 
 **Tempérament** : 
 **Objectifs** : 
 
-# ─────༺ Éléments biographiques ༻────── 
+<h2 style="text-align:center">──────༺ AVATAR ༻──────</h2>
+![[sola-ui.png|+side]]
+*Progression dans le jeu :*
 
-## Histoire
 
-## Relations
-
-## Trivia
-
-**Passion | Hobbies** :
-
-**Habitudes** :
-
-**Armes** :
