@@ -14,8 +14,11 @@ category: Compendium/Ashling May
 <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 I D  <br>
 ╚═══━━━─── • ───━━━═══╝</h1>
-![[Commission Feilyn.png|+side]]
+
+![[../../assets/img/Commission Feilyn.png|+side]]
+
 <h2 style="text-align:center">──────༺ I.R.L ༻──────</h2>
+
 **Nom** : May
 **Prénom** : Ashling
 **Âge** : 26 ans
@@ -71,7 +74,8 @@ D e s c r i p t i o n s<br>
 **Objectifs** : 
 
 <h2 style="text-align:center">──────༺ AVATAR ༻──────</h2>
-![[sola-ui.png|+side]]
+
+![[../../assets/img/sola-ui.png|+side]]
 *Progression dans le jeu :*
 
 
