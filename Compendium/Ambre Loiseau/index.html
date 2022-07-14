@@ -7,7 +7,7 @@
 <meta content="width=device-width,initial-scale=1" name="viewport"/>
 <meta content="Fiche de Ambre Loiseau" name="description"/>
 <link href="https://www.mara-li.fr/Compendium/Ambre%20Loiseau/" rel="canonical"/>
-<link href="../../assets/logo/favicons.png" rel="icon"/>
+<link href="../../assets/meta/favicons.png" rel="icon"/>
 <meta content="mkdocs-1.3.0, mkdocs-material-8.3.9" name="generator"/>
 <title>Ambre Loiseau - Seed</title>
 <link href="../../assets/stylesheets/main.1d29e8d0.min.css" rel="stylesheet"/>
@@ -26,18 +26,18 @@
 <script>__md_scope=new URL("../..",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script>
-                $(document).ready(function() {
-                    $('.link-tooltip').tooltipster();
-                });
-        </script>
+    $(document).ready(function () {
+      $('.link-tooltip').tooltipster();
+    });
+  </script>
 <link crossorigin="anonymous" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" referrerpolicy="no-referrer" rel="stylesheet">
 <meta content="Ambre Loiseau" property="og:title"/>
 <meta content="Ambre Loiseau" name="twitter:title"/>
 <meta content="Fiche de Ambre Loiseau" name="description"/>
 <meta content="Fiche de Ambre Loiseau" name="twitter:description"/>
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="https://www.mara-li.fr/assets/logo/LOGO_SEO.png" property="og:image"/>
-<meta content="https://www.mara-li.fr/assets/logo/LOGO_SEO.png" name="twitter:image"/>
+<meta content="https://www.mara-li.fr/assets/meta/LOGO_SEO.png" property="og:image"/>
+<meta content="https://www.mara-li.fr/assets/meta/LOGO_SEO.png" name="twitter:image"/>
 </link></head>
 <body data-md-color-accent="light-blue" data-md-color-primary="teal" data-md-color-scheme="default" dir="ltr">
 <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
@@ -54,7 +54,7 @@
 <header class="md-header md-header--lifted" data-md-component="header">
 <nav aria-label="En-tête" class="md-header__inner md-grid">
 <a aria-label="Seed" class="md-header__button md-logo" data-md-component="logo" href="../.." title="Seed">
-<img alt="logo" src="../../assets/logo/favicons.png"/>
+<img alt="logo" src="../../assets/meta/favicons.png"/>
 </a>
 <label class="md-header__button md-icon" for="__drawer">
 <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"></path></svg>
@@ -163,7 +163,7 @@
 <nav aria-label="Navigation" class="md-nav md-nav--primary md-nav--lifted" data-md-level="0">
 <label class="md-nav__title" for="__drawer">
 <a aria-label="Seed" class="md-nav__button md-logo" data-md-component="logo" href="../.." title="Seed">
-<img alt="logo" src="../../assets/logo/favicons.png"/>
+<img alt="logo" src="../../assets/meta/favicons.png"/>
 </a>
     Seed
   </label>
@@ -853,32 +853,32 @@ Bon.</p>
 <script async="" crossorigin="anonymous" data-category-id="DIC_kwDOGlyxGM4CQMx1" data-emit-metadata="0" data-input-position="top" data-lang="fr" data-mapping="url" data-reactions-enabled="1" data-repo="mara-Li/Seed_Publish" data-repo-id="R_kgDOGlyxGA" data-theme="dark_dimmed" src="https://giscus.app/client.js">
 </script>
 <script>
-  var giscus = document.querySelector("script[src*=giscus]")
+    var giscus = document.querySelector("script[src*=giscus]")
 
-  /* Set palette on initial load */
-  var palette = __md_get("__palette")
-  if (palette && typeof palette.color === "object") {
-    var theme = palette.color.scheme === "slate" ? "dark_dimmed" : "light"
-    giscus.setAttribute("data-theme", theme)
-  }
-
-  /* Register event handlers after documented loaded */
-  document.addEventListener("DOMContentLoaded", function () {
-    var ref = document.querySelector("[data-md-component=palette]")
-    ref.addEventListener("change", function () {
-      var palette = __md_get("__palette")
-      if (palette && typeof palette.color === "object") {
+    /* Set palette on initial load */
+    var palette = __md_get("__palette")
+    if (palette && typeof palette.color === "object") {
         var theme = palette.color.scheme === "slate" ? "dark_dimmed" : "light"
+        giscus.setAttribute("data-theme", theme)
+    }
 
-        /* Instruct Giscus to change theme */
-        var frame = document.querySelector(".giscus-frame")
-        frame.contentWindow.postMessage(
-          { giscus: { setConfig: { theme } } },
-          "https://giscus.app"
-        )
-      }
+    /* Register event handlers after documented loaded */
+    document.addEventListener("DOMContentLoaded", function () {
+        var ref = document.querySelector("[data-md-component=palette]")
+        ref.addEventListener("change", function () {
+            var palette = __md_get("__palette")
+            if (palette && typeof palette.color === "object") {
+                var theme = palette.color.scheme === "slate" ? "dark_dimmed" : "light"
+
+                /* Instruct Giscus to change theme */
+                var frame = document.querySelector(".giscus-frame")
+                frame.contentWindow.postMessage(
+                    { giscus: { setConfig: { theme } } },
+                    "https://giscus.app"
+                )
+            }
+        })
     })
-  })
 </script>
 </article>
 </div>
