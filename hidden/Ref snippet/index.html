@@ -30,7 +30,7 @@
       $('.link-tooltip').tooltipster();
     });
   </script>
-<link crossorigin="anonymous" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" referrerpolicy="no-referrer" rel="stylesheet">
+<link crossorigin="anonymous" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" referrerpolicy="no-referrer" rel="stylesheet"/>
 <meta content="Ref snippet" property="og:title"/>
 <meta content="Ref snippet" name="twitter:title"/>
 <meta content="A little owl" name="og:description"/>
@@ -38,7 +38,7 @@
 <meta content="summary_large_image" name="twitter:card"/>
 <meta content="https://www.mara-li.fr/assets/meta/LOGO_SEO.png" property="og:image"/>
 <meta content="https://www.mara-li.fr/assets/meta/LOGO_SEO.png" name="twitter:image"/>
-</link></head>
+</head>
 <body data-md-color-accent="light-blue" data-md-color-primary="teal" data-md-color-scheme="default" dir="ltr">
 <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
 <input autocomplete="off" class="md-toggle" data-md-toggle="drawer" id="__drawer" type="checkbox"/>
@@ -629,7 +629,27 @@
 </div>
 <div class="md-content" data-md-component="content">
 <article class="md-content__inner md-typeset">
-<p><img alt="Temporaire" src="../Temporaire/" title="Temporaire"/></p>
+<p><a class="link_citation" href="https://www.mara-li.fr/hidden/Temporaire/"><i class="fas fa-link"></i> </a> <div class="citation"><p>```toml<br/>
+    [buildPlans.fira-iosevka]<br/>
+    family = “Fira Iosevka”<br/>
+    spacing = “normal”<br/>
+    serifs = “sans”<br/>
+    no-cv-ss = true</p>
+<pre><code>[buildPlans.fira-iosevka.variants]
+inherits = "ss05"
+
+[buildPlans.fira-iosevka.variants.design]
+l = "tailed-serifed"
+paren = "large-contour"
+brace = "straight"
+ampersand = "upper-open"
+ascii-single-quote = "raised-comma"
+ascii-grave = "raised-turn-comma"
+
+[buildPlans.iosevka-custom.ligations]
+inherits = "dlig"
+</code></pre>
+<p>```</p></div></p>
 <h1 id="embed-adjustments">Embed Adjustments<a class="headerlink" href="#embed-adjustments" title="Permanent link">¶</a></h1>
 <table>
 <thead>
