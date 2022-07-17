@@ -23,3 +23,7 @@ category: hidden
 	[buildPlans.iosevka-custom.ligations]
 	inherits = "dlig"
 ```
+
+```dataview
+LIST FROM "20. Compendium"
+```
