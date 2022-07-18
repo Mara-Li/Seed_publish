@@ -30,7 +30,7 @@
       $('.link-tooltip').tooltipster();
     });
   </script>
-<link crossorigin="anonymous" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" referrerpolicy="no-referrer" rel="stylesheet">
+<link crossorigin="anonymous" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" referrerpolicy="no-referrer" rel="stylesheet"/>
 <meta content="Ambrosia" property="og:title"/>
 <meta content="Ambrosia" name="twitter:title"/>
 <meta content="Une idée comme une autre, brouillonnée" name="description"/>
@@ -38,7 +38,7 @@
 <meta content="summary_large_image" name="twitter:card"/>
 <meta content="https://www.mara-li.fr/assets/meta/LOGO_SEO.png" property="og:image"/>
 <meta content="https://www.mara-li.fr/assets/meta/LOGO_SEO.png" name="twitter:image"/>
-</link></head>
+</head>
 <body data-md-color-accent="light-blue" data-md-color-primary="teal" data-md-color-scheme="default" dir="ltr">
 <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
 <input autocomplete="off" class="md-toggle" data-md-toggle="drawer" id="__drawer" type="checkbox"/>
@@ -628,7 +628,7 @@
 <li>Type de magie différente, niveau différent. Spécialisation;</li>
 <li>Monde qui tourne autour de l’étude de cette magie </li>
 <li>Peu d’intérêt envers l’espace</li>
-<li><a href="./#le-flux" title="Le flux">Le flux</a></li>
+<li><a class="link-tooltip" data-tooltip-content="#Leflux_tooltip_id" href="./#le-flux" title="Le flux">Le flux</a></li>
 <li>Pas d’enfant, réincarnation à l’infinie </li>
 <li>Pas de notion de temps ni de mort (!= cristallisation)</li>
 <li>Pas de guerre ou maladie</li>
@@ -643,12 +643,12 @@
 <li>Ceux qui sont à l’intérieur observe à partir de la planète. </li>
 <li>Reviennent à des endroit précis avec leur souvenir, mais en “meilleur forme”. </li>
 <li>La magie évolue à partir du flux</li>
-<li>Plus on reste longtemps hors du flux, moins la santé mentale reste bonne, cf <a href="./#idéal" title="Idéal">Idéal</a></li>
+<li>Plus on reste longtemps hors du flux, moins la santé mentale reste bonne, cf <a class="link-tooltip" data-tooltip-content="#Idéal_tooltip_id" href="./#idéal" title="Idéal">Idéal</a></li>
 </ul>
 <hr/>
 <h1 id="ideal">Idéal<a class="headerlink" href="#ideal" title="Permanent link">¶</a></h1>
 <ul>
-<li>Résume l’ambition, idéaux, but d’une personne. Sans elle, la personne se <a href="./#cristallisation" title="cristallise">cristallise</a> et perd contrôle de sa magie.</li>
+<li>Résume l’ambition, idéaux, but d’une personne. Sans elle, la personne se <a class="link-tooltip" data-tooltip-content="#cristallise_tooltip_id" href="./#cristallisation" title="cristallise">cristallise</a> et perd contrôle de sa magie.</li>
 <li>Chaque personne a un Idéal. Pas d’idéal → mort</li>
 <li>Par définition, il est impossible d’atteindre l’idéal. Le but d’une vie est de le faire grandir, évoluer, s’en approcher le plus possible;</li>
 <li>Un idéal est changeant, notamment par les découvertes des personnes. </li>
@@ -804,12 +804,31 @@
 <div class="md-dialog" data-md-component="dialog">
 <div class="md-dialog__inner md-typeset"></div>
 </div>
-<script id="__config" type="application/json">{"base": "../..", "features": ["navigation.indexes", "navigation.top", "navigation.tabs", "navigation.tabs.sticky", "navigation.instant", "search.suggest", "search.highlight"], "search": "../../assets/javascripts/workers/search.b97dbffb.min.js", "translations": {"clipboard.copied": "Copi\u00e9 dans le presse-papier", "clipboard.copy": "Copier dans le presse-papier", "search.config.lang": "fr", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Rechercher", "search.result.more.one": "1 de plus sur cette page", "search.result.more.other": "# de plus sur cette page", "search.result.none": "Aucun document trouv\u00e9", "search.result.one": "1 document trouv\u00e9", "search.result.other": "# documents trouv\u00e9s", "search.result.placeholder": "Taper pour d\u00e9marrer la recherche", "search.result.term.missing": "Non trouv\u00e9", "select.version.title": "S\u00e9lectionner la version"}}</script>
+<script id="__config" type="application/json">{"base": "../..", "features": ["navigation.indexes", "navigation.top", "navigation.tabs", "navigation.tabs.sticky", "search.suggest", "search.highlight"], "search": "../../assets/javascripts/workers/search.b97dbffb.min.js", "translations": {"clipboard.copied": "Copi\u00e9 dans le presse-papier", "clipboard.copy": "Copier dans le presse-papier", "search.config.lang": "fr", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Rechercher", "search.result.more.one": "1 de plus sur cette page", "search.result.more.other": "# de plus sur cette page", "search.result.none": "Aucun document trouv\u00e9", "search.result.one": "1 document trouv\u00e9", "search.result.other": "# documents trouv\u00e9s", "search.result.placeholder": "Taper pour d\u00e9marrer la recherche", "search.result.term.missing": "Non trouv\u00e9", "select.version.title": "S\u00e9lectionner la version"}}</script>
 <script src="../../assets/javascripts/bundle.6c7ad80a.min.js"></script>
 <script src="../../assets/js/mathjax.js"></script>
 <script src="../../assets/js/utils.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 <script src="../../assets/js/tooltipster.bundle.js"></script>
-</body>
+<div class="tooltip_templates"><div id="Leflux_tooltip_id"><li>Fluide de la planète</li>
+<li>Les vivants y entrent et reste +- longtemps </li>
+<li>Ceux qui sont à l’intérieur observe à partir de la planète. </li>
+<li>Reviennent à des endroit précis avec leur souvenir, mais en “meilleur forme”. </li>
+<li>La magie évolue à partir du flux</li></div></div><div class="tooltip_templates"><div id="Idéal_tooltip_id"></div></div><div class="tooltip_templates"><div id="cristallise_tooltip_id"><li>Une personne perdant son idéal devient <strong>amorphe</strong> et se cristallise peu à peu.</li>
+<li>Plusieurs phase :<ul>
+<li>Apparition de cauchemar</li>
+<li>Membre → réversible si entrée dans le flux. </li>
+<li>Corps complet</li>
+<li>Structure complète de cristal</li>
+<li>Rétricissement </li>
+</ul>
+</li>
+<li>Apparition de cauchemar</li>
+<li>Membre → réversible si entrée dans le flux. </li>
+<li>Corps complet</li>
+<li>Structure complète de cristal</li>
+<li>Rétricissement </li>
+<li>Les cristaux “fini” → Taille de la paume de la main. Couleur différente en fonction des personnes</li>
+<li>A l’heure actuelle : imposs…</li></div></div></body>
 </html>
